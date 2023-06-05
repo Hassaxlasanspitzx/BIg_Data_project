@@ -1,0 +1,710 @@
+[2023-06-03T14:57:41.104+0200] {processor.py:156} INFO - Started process (PID=1845) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T14:57:41.105+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T14:57:41.106+0200] {logging_mixin.py:149} INFO - [2023-06-03T14:57:41.106+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T14:57:41.107+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T14:57:41.114+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-06-03T14:58:30.283+0200] {processor.py:156} INFO - Started process (PID=2329) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T14:58:30.296+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T14:58:30.296+0200] {logging_mixin.py:149} INFO - [2023-06-03T14:58:30.296+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T14:58:30.297+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T14:58:30.305+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2023-06-03T14:59:18.476+0200] {processor.py:156} INFO - Started process (PID=2901) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T14:59:18.486+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T14:59:18.487+0200] {logging_mixin.py:149} INFO - [2023-06-03T14:59:18.487+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T14:59:18.488+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T14:59:18.494+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-06-03T15:00:05.990+0200] {processor.py:156} INFO - Started process (PID=2952) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:00:05.993+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:00:05.993+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:00:05.993+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:00:05.995+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:00:06.003+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2023-06-03T15:00:56.787+0200] {processor.py:156} INFO - Started process (PID=3011) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:00:56.788+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:00:56.788+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:00:56.788+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:00:56.789+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:00:56.796+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.010 seconds
+[2023-06-03T15:01:50.909+0200] {processor.py:156} INFO - Started process (PID=3149) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:01:50.921+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:01:50.922+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:01:50.922+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:01:50.923+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:01:50.929+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-06-03T15:03:26.010+0200] {processor.py:156} INFO - Started process (PID=3276) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:03:26.020+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:03:26.021+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:03:26.021+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:03:26.022+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:03:26.030+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-06-03T15:04:12.290+0200] {processor.py:156} INFO - Started process (PID=3323) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:04:12.302+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:04:12.302+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:04:12.302+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:04:12.303+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:04:12.310+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-06-03T15:04:54.706+0200] {processor.py:156} INFO - Started process (PID=3368) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:04:54.717+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:04:54.718+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:04:54.718+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:04:54.719+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:04:54.725+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-06-03T15:05:50.192+0200] {processor.py:156} INFO - Started process (PID=3427) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:05:50.202+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:05:50.203+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:05:50.203+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:05:50.204+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:05:50.210+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2023-06-03T15:06:36.745+0200] {processor.py:156} INFO - Started process (PID=3476) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:06:36.747+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:06:36.748+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:06:36.748+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:06:36.750+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:06:36.757+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2023-06-03T15:07:29.263+0200] {processor.py:156} INFO - Started process (PID=3534) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:07:29.273+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:07:29.274+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:07:29.273+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:07:29.274+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:07:29.281+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2023-06-03T15:11:09.860+0200] {processor.py:156} INFO - Started process (PID=4448) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:11:09.871+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:11:09.872+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:11:09.872+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:11:09.873+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:11:09.879+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2023-06-03T15:11:57.891+0200] {processor.py:156} INFO - Started process (PID=5193) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:11:57.902+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:11:57.902+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:11:57.902+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:11:57.903+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:11:57.910+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-06-03T15:12:50.200+0200] {processor.py:156} INFO - Started process (PID=5921) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:12:50.202+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:12:50.202+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:12:50.202+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:12:50.203+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:12:50.209+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds
+[2023-06-03T15:13:41.006+0200] {processor.py:156} INFO - Started process (PID=6375) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:13:41.019+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:13:41.019+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:13:41.019+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:13:41.020+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:13:41.027+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-06-03T15:14:25.865+0200] {processor.py:156} INFO - Started process (PID=6424) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:14:25.867+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:14:25.868+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:14:25.868+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:14:25.870+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:14:25.878+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2023-06-03T15:15:09.906+0200] {processor.py:156} INFO - Started process (PID=6470) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:15:09.908+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:15:09.909+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:15:09.908+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:15:09.909+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:15:09.916+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-06-03T15:15:55.266+0200] {processor.py:156} INFO - Started process (PID=6517) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:15:55.276+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:15:55.276+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:15:55.276+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:15:55.277+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:15:55.284+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2023-06-03T15:16:41.280+0200] {processor.py:156} INFO - Started process (PID=6567) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:16:41.291+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:16:41.292+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:16:41.291+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:16:41.293+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:16:41.300+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-06-03T15:17:28.588+0200] {processor.py:156} INFO - Started process (PID=6624) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:17:28.599+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:17:28.599+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:17:28.599+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:17:28.600+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:17:28.607+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-06-03T15:18:16.140+0200] {processor.py:156} INFO - Started process (PID=6672) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:18:16.143+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:18:16.144+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:18:16.143+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:18:16.145+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:18:16.153+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2023-06-03T15:19:03.176+0200] {processor.py:156} INFO - Started process (PID=7492) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:19:03.177+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:19:03.178+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:19:03.178+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:19:03.179+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:19:03.187+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-06-03T15:19:55.237+0200] {processor.py:156} INFO - Started process (PID=7571) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:19:55.238+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:19:55.238+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:19:55.238+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:19:55.239+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:19:55.246+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds
+[2023-06-03T15:20:41.567+0200] {processor.py:156} INFO - Started process (PID=8434) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:20:41.568+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:20:41.569+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:20:41.569+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:20:41.570+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:20:41.578+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-06-03T15:21:29.086+0200] {processor.py:156} INFO - Started process (PID=9223) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:21:29.096+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:21:29.097+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:21:29.097+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:21:29.098+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:21:29.104+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2023-06-03T15:22:24.957+0200] {processor.py:156} INFO - Started process (PID=9856) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:22:24.970+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:22:24.970+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:22:24.970+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:22:24.971+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:22:24.977+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-06-03T15:23:11.845+0200] {processor.py:156} INFO - Started process (PID=9905) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:23:11.847+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:23:11.848+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:23:11.847+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:23:11.848+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:23:11.855+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds
+[2023-06-03T15:23:57.561+0200] {processor.py:156} INFO - Started process (PID=9957) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:23:57.573+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:23:57.573+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:23:57.573+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:23:57.574+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:23:57.580+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-06-03T15:24:44.765+0200] {processor.py:156} INFO - Started process (PID=10867) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:24:44.777+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:24:44.778+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:24:44.777+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:24:44.778+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:24:44.786+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-06-03T15:25:28.721+0200] {processor.py:156} INFO - Started process (PID=11441) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:25:28.732+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:25:28.732+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:25:28.732+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:25:28.733+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:25:28.739+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2023-06-03T15:26:16.663+0200] {processor.py:156} INFO - Started process (PID=12324) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:26:16.675+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:26:16.676+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:26:16.676+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:26:16.677+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:26:16.684+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2023-06-03T15:27:05.786+0200] {processor.py:156} INFO - Started process (PID=13503) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:27:05.797+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:27:05.798+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:27:05.798+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:27:05.799+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:27:05.810+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2023-06-03T15:27:50.170+0200] {processor.py:156} INFO - Started process (PID=14466) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:27:50.171+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:27:50.171+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:27:50.171+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:27:50.172+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:27:50.179+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds
+[2023-06-03T15:28:36.191+0200] {processor.py:156} INFO - Started process (PID=14752) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:28:36.192+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:28:36.192+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:28:36.192+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:28:36.193+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:28:36.200+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds
+[2023-06-03T15:29:22.153+0200] {processor.py:156} INFO - Started process (PID=14800) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:29:22.163+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:29:22.164+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:29:22.164+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:29:22.164+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:29:22.171+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2023-06-03T15:30:20.259+0200] {processor.py:156} INFO - Started process (PID=15859) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:30:20.260+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:30:20.261+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:30:20.261+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:30:20.263+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:30:20.270+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-06-03T15:31:15.119+0200] {processor.py:156} INFO - Started process (PID=15922) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:31:15.130+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:31:15.130+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:31:15.130+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:31:15.131+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:31:15.138+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2023-06-03T15:32:04.341+0200] {processor.py:156} INFO - Started process (PID=17032) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:32:04.343+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:32:04.344+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:32:04.344+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:32:04.345+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:32:04.352+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-06-03T15:32:52.840+0200] {processor.py:156} INFO - Started process (PID=18330) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:32:52.851+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:32:52.852+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:32:52.851+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:32:52.852+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:32:52.859+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-06-03T15:33:38.261+0200] {processor.py:156} INFO - Started process (PID=19398) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:33:38.273+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:33:38.273+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:33:38.273+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:33:38.274+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:33:38.281+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-06-03T15:34:23.517+0200] {processor.py:156} INFO - Started process (PID=20245) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:34:23.529+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:34:23.529+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:34:23.529+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:34:23.530+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:34:23.537+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-06-03T15:35:19.902+0200] {processor.py:156} INFO - Started process (PID=21386) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:35:19.903+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:35:19.904+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:35:19.904+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:35:19.905+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:35:19.912+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds
+[2023-06-03T15:36:28.832+0200] {processor.py:156} INFO - Started process (PID=28726) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:36:28.842+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:36:28.842+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:36:28.842+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:36:28.843+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:36:28.850+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-06-03T15:37:14.618+0200] {processor.py:156} INFO - Started process (PID=30323) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:37:14.620+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:37:14.621+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:37:14.621+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:37:14.623+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:37:14.631+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2023-06-03T15:38:14.016+0200] {processor.py:156} INFO - Started process (PID=30393) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:38:14.028+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:38:14.028+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:38:14.028+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:38:14.029+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:38:14.036+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2023-06-03T15:39:09.589+0200] {processor.py:156} INFO - Started process (PID=30454) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:39:09.600+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:39:09.601+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:39:09.600+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:39:09.601+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:39:09.608+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-06-03T15:40:02.745+0200] {processor.py:156} INFO - Started process (PID=31876) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:40:02.757+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:40:02.758+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:40:02.757+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:40:02.758+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:40:02.765+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-06-03T15:40:51.593+0200] {processor.py:156} INFO - Started process (PID=31931) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:40:51.605+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:40:51.605+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:40:51.605+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:40:51.606+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:40:51.613+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2023-06-03T15:41:39.240+0200] {processor.py:156} INFO - Started process (PID=33192) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:41:39.241+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:41:39.242+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:41:39.242+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:41:39.243+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:41:39.249+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds
+[2023-06-03T15:42:29.153+0200] {processor.py:156} INFO - Started process (PID=33258) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:42:29.156+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:42:29.157+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:42:29.156+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:42:29.158+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:42:29.166+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2023-06-03T15:43:20.538+0200] {processor.py:156} INFO - Started process (PID=33309) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:43:20.549+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:43:20.550+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:43:20.550+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:43:20.551+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:43:20.558+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-06-03T15:44:08.610+0200] {processor.py:156} INFO - Started process (PID=34369) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:44:08.621+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:44:08.622+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:44:08.621+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:44:08.622+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:44:08.629+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-06-03T15:44:54.953+0200] {processor.py:156} INFO - Started process (PID=35029) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:44:54.955+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:44:54.955+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:44:54.955+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:44:54.956+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:44:54.964+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-06-03T15:45:41.271+0200] {processor.py:156} INFO - Started process (PID=36250) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:45:41.282+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:45:41.283+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:45:41.283+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:45:41.284+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:45:41.291+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-06-03T15:46:27.428+0200] {processor.py:156} INFO - Started process (PID=37235) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:46:27.430+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:46:27.431+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:46:27.431+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:46:27.433+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:46:27.441+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2023-06-03T15:47:15.961+0200] {processor.py:156} INFO - Started process (PID=37287) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:47:15.971+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:47:15.972+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:47:15.972+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:47:15.973+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:47:15.980+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-06-03T15:48:02.110+0200] {processor.py:156} INFO - Started process (PID=37336) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:48:02.121+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:48:02.122+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:48:02.122+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:48:02.124+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:48:02.134+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.027 seconds
+[2023-06-03T15:48:48.690+0200] {processor.py:156} INFO - Started process (PID=37384) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:48:48.691+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:48:48.692+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:48:48.692+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:48:48.693+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:48:48.700+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-06-03T15:49:36.365+0200] {processor.py:156} INFO - Started process (PID=37433) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:49:36.376+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:49:36.377+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:49:36.377+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:49:36.378+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:49:36.385+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-06-03T15:50:28.262+0200] {processor.py:156} INFO - Started process (PID=38532) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:50:28.273+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:50:28.274+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:50:28.274+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:50:28.275+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:50:28.281+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-06-03T15:51:16.962+0200] {processor.py:156} INFO - Started process (PID=38582) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:51:16.974+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:51:16.975+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:51:16.975+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:51:16.976+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:51:16.983+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-06-03T15:52:07.390+0200] {processor.py:156} INFO - Started process (PID=40484) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:52:07.403+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:52:07.404+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:52:07.403+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:52:07.404+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:52:07.411+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2023-06-03T15:53:09.961+0200] {processor.py:156} INFO - Started process (PID=40555) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:53:09.972+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:53:09.973+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:53:09.973+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:53:09.974+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:53:09.980+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-06-03T15:53:58.066+0200] {processor.py:156} INFO - Started process (PID=40607) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:53:58.077+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:53:58.078+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:53:58.078+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:53:58.079+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:53:58.085+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-06-03T15:54:43.361+0200] {processor.py:156} INFO - Started process (PID=40654) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:54:43.373+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:54:43.373+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:54:43.373+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:54:43.374+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:54:43.381+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-06-03T15:55:30.796+0200] {processor.py:156} INFO - Started process (PID=40704) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:55:30.807+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:55:30.808+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:55:30.808+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:55:30.809+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:55:30.815+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2023-06-03T15:56:30.516+0200] {processor.py:156} INFO - Started process (PID=40764) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:56:30.519+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:56:30.520+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:56:30.520+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:56:30.531+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:56:30.556+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.044 seconds
+[2023-06-03T15:57:21.077+0200] {processor.py:156} INFO - Started process (PID=40815) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:57:21.079+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:57:21.079+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:57:21.079+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:57:21.080+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:57:21.087+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-06-03T15:58:08.094+0200] {processor.py:156} INFO - Started process (PID=40864) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:58:08.106+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:58:08.106+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:58:08.106+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:58:08.107+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:58:08.114+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-06-03T15:58:54.366+0200] {processor.py:156} INFO - Started process (PID=40913) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:58:54.376+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:58:54.377+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:58:54.377+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:58:54.378+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:58:54.384+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2023-06-03T15:59:39.542+0200] {processor.py:156} INFO - Started process (PID=40960) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:59:39.543+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T15:59:39.544+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:59:39.544+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:59:39.545+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T15:59:39.552+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds
+[2023-06-03T16:00:29.008+0200] {processor.py:156} INFO - Started process (PID=41011) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:00:29.019+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:00:29.020+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:00:29.020+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:00:29.021+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:00:29.027+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2023-06-03T16:01:16.086+0200] {processor.py:156} INFO - Started process (PID=41059) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:01:16.087+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:01:16.088+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:01:16.088+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:01:16.089+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:01:16.095+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.011 seconds
+[2023-06-03T16:02:06.479+0200] {processor.py:156} INFO - Started process (PID=41111) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:02:06.490+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:02:06.491+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:02:06.491+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:02:06.492+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:02:06.498+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-06-03T16:02:54.335+0200] {processor.py:156} INFO - Started process (PID=41161) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:02:54.346+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:02:54.346+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:02:54.346+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:02:54.347+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:02:54.354+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-06-03T16:03:41.362+0200] {processor.py:156} INFO - Started process (PID=41209) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:03:41.372+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:03:41.373+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:03:41.373+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:03:41.374+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:03:41.381+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-06-03T16:04:32.717+0200] {processor.py:156} INFO - Started process (PID=41262) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:04:32.728+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:04:32.729+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:04:32.729+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:04:32.730+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:04:32.737+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-06-03T16:05:21.583+0200] {processor.py:156} INFO - Started process (PID=41311) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:05:21.585+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:05:21.586+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:05:21.585+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:05:21.587+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:05:21.596+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2023-06-03T16:06:08.962+0200] {processor.py:156} INFO - Started process (PID=41361) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:06:08.963+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:06:08.964+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:06:08.964+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:06:08.965+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:06:08.973+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-06-03T16:06:57.486+0200] {processor.py:156} INFO - Started process (PID=41411) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:06:57.487+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:06:57.488+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:06:57.488+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:06:57.489+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:06:57.496+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-06-03T16:07:42.789+0200] {processor.py:156} INFO - Started process (PID=41458) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:07:42.801+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:07:42.802+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:07:42.802+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:07:42.803+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:07:42.810+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2023-06-03T16:08:33.373+0200] {processor.py:156} INFO - Started process (PID=41510) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:08:33.375+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:08:33.376+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:08:33.376+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:08:33.378+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:08:33.385+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2023-06-03T16:09:19.691+0200] {processor.py:156} INFO - Started process (PID=41558) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:09:19.694+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:09:19.695+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:09:19.694+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:09:19.696+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:09:19.705+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2023-06-03T16:10:06.977+0200] {processor.py:156} INFO - Started process (PID=41606) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:10:06.979+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:10:06.980+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:10:06.980+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:10:06.982+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:10:06.992+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2023-06-03T16:10:53.308+0200] {processor.py:156} INFO - Started process (PID=41655) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:10:53.309+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:10:53.309+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:10:53.309+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:10:53.310+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:10:53.318+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-06-03T16:11:37.449+0200] {processor.py:156} INFO - Started process (PID=41702) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:11:37.452+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:11:37.453+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:11:37.453+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:11:37.455+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:11:37.463+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2023-06-03T16:12:26.091+0200] {processor.py:156} INFO - Started process (PID=41751) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:12:26.093+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:12:26.094+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:12:26.094+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:12:26.095+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:12:26.102+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-06-03T16:13:15.298+0200] {processor.py:156} INFO - Started process (PID=41802) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:13:15.311+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:13:15.311+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:13:15.311+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:13:15.312+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:13:15.319+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2023-06-03T16:14:02.709+0200] {processor.py:156} INFO - Started process (PID=41850) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:14:02.719+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:14:02.720+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:14:02.720+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:14:02.721+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:14:02.728+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-06-03T16:14:55.100+0200] {processor.py:156} INFO - Started process (PID=41903) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:14:55.111+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:14:55.111+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:14:55.111+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:14:55.112+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:14:55.119+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2023-06-03T16:15:58.440+0200] {processor.py:156} INFO - Started process (PID=41964) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:15:58.477+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:15:58.478+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:15:58.478+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:15:58.480+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:15:58.498+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.062 seconds
+[2023-06-03T16:17:05.057+0200] {processor.py:156} INFO - Started process (PID=42026) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:17:05.060+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:17:05.061+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:17:05.061+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:17:05.064+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:17:05.079+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2023-06-03T16:18:02.472+0200] {processor.py:156} INFO - Started process (PID=42073) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:18:02.510+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:18:02.512+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:18:02.512+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:18:02.517+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:18:02.544+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.079 seconds
+[2023-06-03T16:19:17.703+0200] {processor.py:156} INFO - Started process (PID=42137) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:19:17.722+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:19:17.723+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:19:17.723+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:19:17.725+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:19:17.742+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.049 seconds
+[2023-06-03T16:20:30.805+0200] {processor.py:156} INFO - Started process (PID=42201) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:20:30.842+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:20:30.843+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:20:30.843+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:20:30.845+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:20:30.861+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.061 seconds
+[2023-06-03T16:21:43.008+0200] {processor.py:156} INFO - Started process (PID=42264) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:21:43.045+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:21:43.047+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:21:43.046+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:21:43.051+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:21:43.078+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.075 seconds
+[2023-06-03T16:22:54.984+0200] {processor.py:156} INFO - Started process (PID=42328) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:22:55.021+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:22:55.022+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:22:55.022+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:22:55.025+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:22:55.044+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.065 seconds
+[2023-06-03T16:24:07.482+0200] {processor.py:156} INFO - Started process (PID=42390) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:24:07.521+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:24:07.524+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:24:07.523+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:24:07.528+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:24:07.554+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.077 seconds
+[2023-06-03T16:25:21.929+0200] {processor.py:156} INFO - Started process (PID=42455) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:25:21.966+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:25:21.967+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:25:21.967+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:25:21.970+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:25:21.990+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.067 seconds
+[2023-06-03T16:26:37.452+0200] {processor.py:156} INFO - Started process (PID=42519) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:26:37.489+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:26:37.491+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:26:37.491+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:26:37.493+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:26:37.513+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.066 seconds
+[2023-06-03T16:27:48.013+0200] {processor.py:156} INFO - Started process (PID=42581) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:27:48.052+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:27:48.053+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:27:48.053+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:27:48.056+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:27:48.077+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.070 seconds
+[2023-06-03T16:28:58.822+0200] {processor.py:156} INFO - Started process (PID=44987) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:28:58.824+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:28:58.825+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:28:58.825+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:28:58.827+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:28:58.845+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds
+[2023-06-03T16:30:00.770+0200] {processor.py:156} INFO - Started process (PID=46128) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:30:00.773+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:30:00.775+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:30:00.774+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:30:00.778+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:30:00.799+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2023-06-03T16:31:13.947+0200] {processor.py:156} INFO - Started process (PID=49017) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:31:13.992+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:31:13.995+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:31:13.994+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:31:13.999+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:31:14.020+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.080 seconds
+[2023-06-03T16:32:31.830+0200] {processor.py:156} INFO - Started process (PID=50115) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:32:31.867+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:32:31.869+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:32:31.868+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:32:31.871+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:32:31.891+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.065 seconds
+[2023-06-03T16:33:42.457+0200] {processor.py:156} INFO - Started process (PID=50495) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:33:42.492+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:33:42.494+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:33:42.494+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:33:42.496+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:33:42.514+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.061 seconds
+[2023-06-03T16:34:57.072+0200] {processor.py:156} INFO - Started process (PID=51598) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:34:57.111+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:34:57.112+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:34:57.112+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:34:57.115+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:34:57.135+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.067 seconds
+[2023-06-03T16:36:11.735+0200] {processor.py:156} INFO - Started process (PID=54517) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:36:11.772+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:36:11.773+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:36:11.773+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:36:11.776+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:36:11.798+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.068 seconds
+[2023-06-03T16:37:26.362+0200] {processor.py:156} INFO - Started process (PID=55890) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:37:26.399+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:37:26.400+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:37:26.400+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:37:26.403+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:37:26.423+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.065 seconds
+[2023-06-03T16:38:21.233+0200] {processor.py:156} INFO - Started process (PID=57245) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:38:21.234+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:38:21.235+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:38:21.235+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:38:21.237+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:38:21.247+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2023-06-03T16:39:34.373+0200] {processor.py:156} INFO - Started process (PID=60404) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:39:34.376+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:39:34.378+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:39:34.378+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:39:34.381+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:39:34.404+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.036 seconds
+[2023-06-03T16:41:00.812+0200] {processor.py:156} INFO - Started process (PID=62082) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:41:00.851+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:41:00.852+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:41:00.852+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:41:00.855+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:41:00.877+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.069 seconds
+[2023-06-03T16:42:13.307+0200] {processor.py:156} INFO - Started process (PID=63926) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:42:13.343+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:42:13.345+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:42:13.345+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:42:13.348+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:42:13.369+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.068 seconds
+[2023-06-03T16:43:33.668+0200] {processor.py:156} INFO - Started process (PID=65777) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:43:33.705+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:43:33.707+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:43:33.706+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:43:33.709+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:43:33.728+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.065 seconds
+[2023-06-03T16:44:33.346+0200] {processor.py:156} INFO - Started process (PID=67340) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:44:33.380+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:44:33.382+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:44:33.381+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:44:33.384+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:44:33.401+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.060 seconds
+[2023-06-03T16:45:30.210+0200] {processor.py:156} INFO - Started process (PID=68979) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:45:30.211+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:45:30.212+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:45:30.212+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:45:30.214+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:45:30.226+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2023-06-03T16:46:51.760+0200] {processor.py:156} INFO - Started process (PID=70590) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:46:51.797+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:46:51.798+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:46:51.798+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:46:51.801+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:46:51.820+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.065 seconds
+[2023-06-03T16:47:48.967+0200] {processor.py:156} INFO - Started process (PID=71891) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:47:49.004+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:47:49.006+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:47:49.005+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:47:49.008+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:47:49.028+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.066 seconds
+[2023-06-03T16:49:08.473+0200] {processor.py:156} INFO - Started process (PID=73506) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:49:08.509+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:49:08.511+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:49:08.511+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:49:08.514+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:49:08.534+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.066 seconds
+[2023-06-03T16:50:05.787+0200] {processor.py:156} INFO - Started process (PID=75060) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:50:05.825+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:50:05.827+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:50:05.826+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:50:05.829+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:50:05.849+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.066 seconds
+[2023-06-03T16:51:29.422+0200] {processor.py:156} INFO - Started process (PID=75185) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:51:29.459+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:51:29.460+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:51:29.460+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:51:29.463+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:51:29.482+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.064 seconds
+[2023-06-03T16:52:27.719+0200] {processor.py:156} INFO - Started process (PID=75264) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:52:27.724+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:52:27.725+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:52:27.725+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:52:27.729+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:52:27.751+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.036 seconds
+[2023-06-03T16:53:54.336+0200] {processor.py:156} INFO - Started process (PID=75367) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:53:54.338+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:53:54.339+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:53:54.339+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:53:54.341+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:53:54.360+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.029 seconds
+[2023-06-03T16:54:55.249+0200] {processor.py:156} INFO - Started process (PID=75449) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:54:55.252+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:54:55.254+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:54:55.253+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:54:55.255+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:54:55.274+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2023-06-03T16:55:51.972+0200] {processor.py:156} INFO - Started process (PID=76921) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:55:51.975+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:55:51.976+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:55:51.976+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:55:51.978+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:55:51.998+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.031 seconds
+[2023-06-03T16:56:51.567+0200] {processor.py:156} INFO - Started process (PID=78371) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:56:51.607+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:56:51.609+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:56:51.609+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:56:51.611+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:56:51.630+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.068 seconds
+[2023-06-03T16:57:48.656+0200] {processor.py:156} INFO - Started process (PID=79777) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:57:48.692+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:57:48.694+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:57:48.694+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:57:48.697+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:57:48.716+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.065 seconds
+[2023-06-03T16:59:19.921+0200] {processor.py:156} INFO - Started process (PID=81717) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:59:19.959+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T16:59:19.961+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:59:19.960+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:59:19.964+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T16:59:19.986+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.070 seconds
+[2023-06-03T17:00:46.832+0200] {processor.py:156} INFO - Started process (PID=83950) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:00:46.869+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T17:00:46.871+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:00:46.871+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:00:46.873+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:00:46.895+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.067 seconds
+[2023-06-03T17:02:14.336+0200] {processor.py:156} INFO - Started process (PID=85436) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:02:14.373+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T17:02:14.375+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:02:14.374+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:02:14.379+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:02:14.406+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.075 seconds
+[2023-06-03T17:03:17.826+0200] {processor.py:156} INFO - Started process (PID=87845) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:03:17.840+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T17:03:17.841+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:03:17.841+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:03:17.843+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:03:17.863+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.042 seconds
+[2023-06-03T17:04:44.551+0200] {processor.py:156} INFO - Started process (PID=89083) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:04:44.588+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T17:04:44.589+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:04:44.589+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:04:44.591+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:04:44.606+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.059 seconds
+[2023-06-03T17:05:42.554+0200] {processor.py:156} INFO - Started process (PID=89141) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:05:42.592+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T17:05:42.594+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:05:42.593+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:05:42.598+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:05:42.627+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.080 seconds
+[2023-06-03T17:06:42.007+0200] {processor.py:156} INFO - Started process (PID=90594) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:06:42.045+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T17:06:42.046+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:06:42.046+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:06:42.049+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:06:42.070+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.067 seconds
+[2023-06-03T17:07:38.573+0200] {processor.py:156} INFO - Started process (PID=92077) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:07:38.576+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T17:07:38.577+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:07:38.577+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:07:38.580+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:07:38.604+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.036 seconds
+[2023-06-03T17:08:55.978+0200] {processor.py:156} INFO - Started process (PID=94632) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:08:55.981+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T17:08:55.983+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:08:55.982+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:08:55.986+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:08:56.006+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.032 seconds
+[2023-06-03T17:10:15.829+0200] {processor.py:156} INFO - Started process (PID=95889) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:10:15.865+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T17:10:15.867+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:10:15.866+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:10:15.869+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:10:15.891+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.067 seconds
+[2023-06-03T17:11:32.573+0200] {processor.py:156} INFO - Started process (PID=99015) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:11:32.575+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T17:11:32.576+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:11:32.576+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:11:32.578+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:11:32.588+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2023-06-03T17:12:30.345+0200] {processor.py:156} INFO - Started process (PID=100744) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:12:30.381+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T17:12:30.383+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:12:30.383+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:12:30.385+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:12:30.405+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.064 seconds
+[2023-06-03T17:13:51.577+0200] {processor.py:156} INFO - Started process (PID=100859) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:13:51.615+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T17:13:51.616+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:13:51.616+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:13:51.619+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:13:51.639+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.067 seconds
+[2023-06-03T17:15:14.061+0200] {processor.py:156} INFO - Started process (PID=102383) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:15:14.082+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-06-03T17:15:14.085+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:15:14.084+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:15:14.088+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-06-03T17:15:14.108+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.050 seconds

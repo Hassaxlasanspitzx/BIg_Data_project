@@ -1,0 +1,67 @@
+[2023-05-24T18:45:28.694+0200] {processor.py:156} INFO - Started process (PID=7908) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T18:45:28.696+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-05-24T18:45:28.697+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:28.697+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T18:45:28.712+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T18:45:28.923+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:28.922+0200] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_sensors
+[2023-05-24T18:45:28.942+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:28.941+0200] {manager.py:504} INFO - Created Permission View: can read on DAG:example_sensors
+[2023-05-24T18:45:28.970+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:28.970+0200] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_sensors
+[2023-05-24T18:45:28.971+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:28.971+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:45:29.228+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:29.228+0200] {dag.py:2747} INFO - Creating ORM DAG for example_sensors
+[2023-05-24T18:45:29.242+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:29.242+0200] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-05-24T18:45:29.310+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.620 seconds
+[2023-05-24T18:46:28.081+0200] {processor.py:156} INFO - Started process (PID=7955) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T18:46:28.118+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-05-24T18:46:28.119+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:28.119+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T18:46:28.138+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T18:46:28.177+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:28.177+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:46:28.205+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:28.205+0200] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-05-24T18:46:28.236+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.159 seconds
+[2023-05-24T18:47:21.408+0200] {processor.py:156} INFO - Started process (PID=8002) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T18:47:21.445+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-05-24T18:47:21.446+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:21.446+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T18:47:21.465+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T18:47:21.517+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:21.516+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:47:21.733+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:21.733+0200] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-05-24T18:47:21.818+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.416 seconds
+[2023-05-24T21:47:09.385+0200] {processor.py:156} INFO - Started process (PID=8070) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:47:09.386+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-05-24T21:47:09.387+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:09.387+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:47:09.466+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:47:09.479+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:09.479+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:47:09.492+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:09.492+0200] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-05-24T21:47:09.511+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.128 seconds
+[2023-05-24T21:47:57.079+0200] {processor.py:156} INFO - Started process (PID=8121) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:47:57.081+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-05-24T21:47:57.082+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:57.082+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:47:57.093+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:47:57.119+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:57.119+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:47:57.145+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:57.145+0200] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-05-24T21:47:57.179+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.103 seconds
+[2023-05-24T21:48:50.675+0200] {processor.py:156} INFO - Started process (PID=8169) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:48:50.677+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-05-24T21:48:50.679+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:50.678+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:48:50.700+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:48:50.744+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:50.743+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:48:50.774+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:50.774+0200] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-05-24T21:48:50.816+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.147 seconds
+[2023-05-24T21:49:36.000+0200] {processor.py:156} INFO - Started process (PID=8214) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:49:36.035+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-05-24T21:49:36.037+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:36.036+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:49:36.053+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:49:36.081+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:36.081+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:49:36.104+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:36.104+0200] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-05-24T21:49:36.141+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.145 seconds
+[2023-05-24T21:50:20.553+0200] {processor.py:156} INFO - Started process (PID=8260) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:50:20.554+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-05-24T21:50:20.555+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:20.555+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:50:20.562+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:50:20.584+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:20.584+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:50:20.601+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:20.601+0200] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-05-24T21:50:20.626+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.076 seconds
+[2023-05-24T21:51:09.471+0200] {processor.py:156} INFO - Started process (PID=8308) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:51:09.472+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-05-24T21:51:09.473+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:51:09.473+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:51:09.479+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-05-24T21:51:09.496+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:51:09.496+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:51:09.511+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:51:09.511+0200] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-05-24T21:51:09.533+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.063 seconds

@@ -1,0 +1,60 @@
+[2023-05-24T18:45:45.649+0200] {processor.py:156} INFO - Started process (PID=7921) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T18:45:45.651+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-05-24T18:45:45.652+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:45.652+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T18:45:45.665+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T18:45:45.834+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:45.833+0200] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2023-05-24T18:45:45.860+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:45.859+0200] {manager.py:504} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2023-05-24T18:45:45.886+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:45.885+0200] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2023-05-24T18:45:45.886+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:45.886+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:45:46.083+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:46.082+0200] {dag.py:2747} INFO - Creating ORM DAG for example_branch_labels
+[2023-05-24T18:45:46.096+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:46.096+0200] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T18:45:46.159+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.515 seconds
+[2023-05-24T18:46:41.260+0200] {processor.py:156} INFO - Started process (PID=7966) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T18:46:41.263+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-05-24T18:46:41.264+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:41.264+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T18:46:41.278+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T18:46:41.306+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:41.306+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:46:41.333+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:41.333+0200] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T18:46:41.372+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.117 seconds
+[2023-05-24T18:47:35.405+0200] {processor.py:156} INFO - Started process (PID=8013) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T18:47:35.442+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-05-24T18:47:35.443+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:35.443+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T18:47:35.456+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T18:47:35.494+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:35.494+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:47:35.674+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:35.673+0200] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T18:47:35.740+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.340 seconds
+[2023-05-24T21:47:23.233+0200] {processor.py:156} INFO - Started process (PID=8085) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:47:23.235+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-05-24T21:47:23.236+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:23.236+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:47:23.243+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:47:23.263+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:23.262+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:47:23.284+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:23.284+0200] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T21:47:23.311+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.081 seconds
+[2023-05-24T21:48:08.753+0200] {processor.py:156} INFO - Started process (PID=8132) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:48:08.755+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-05-24T21:48:08.756+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:08.756+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:48:08.764+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:48:08.789+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:08.788+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:48:08.813+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:08.813+0200] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T21:48:08.845+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.095 seconds
+[2023-05-24T21:49:02.262+0200] {processor.py:156} INFO - Started process (PID=8180) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:49:02.264+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-05-24T21:49:02.265+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:02.264+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:49:02.276+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:49:02.299+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:02.299+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:49:02.326+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:02.325+0200] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T21:49:02.366+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.107 seconds
+[2023-05-24T21:49:54.315+0200] {processor.py:156} INFO - Started process (PID=8233) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:49:54.316+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-05-24T21:49:54.317+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:54.317+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:49:54.325+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:49:54.340+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:54.340+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:49:54.356+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:54.356+0200] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T21:49:54.375+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.063 seconds
+[2023-05-24T21:50:39.755+0200] {processor.py:156} INFO - Started process (PID=8280) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:50:39.756+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2023-05-24T21:50:39.757+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:39.757+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:50:39.764+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py
+[2023-05-24T21:50:39.781+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:39.780+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:50:39.798+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:39.798+0200] {dag.py:3486} INFO - Setting next_dagrun for example_branch_labels to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T21:50:39.821+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py took 0.068 seconds

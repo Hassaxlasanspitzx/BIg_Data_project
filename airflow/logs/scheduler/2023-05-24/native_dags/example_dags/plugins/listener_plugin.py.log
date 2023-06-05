@@ -1,0 +1,35 @@
+[2023-05-24T18:46:05.116+0200] {processor.py:156} INFO - Started process (PID=7936) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T18:46:05.118+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2023-05-24T18:46:05.119+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:05.119+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T18:46:05.124+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T18:46:05.142+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.031 seconds
+[2023-05-24T18:47:19.189+0200] {processor.py:156} INFO - Started process (PID=8000) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T18:47:19.226+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2023-05-24T18:47:19.227+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:19.227+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T18:47:19.229+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T18:47:19.243+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.058 seconds
+[2023-05-24T21:47:36.552+0200] {processor.py:156} INFO - Started process (PID=8098) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:47:36.554+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2023-05-24T21:47:36.555+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:36.555+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:47:36.558+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:47:36.570+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.021 seconds
+[2023-05-24T21:48:25.605+0200] {processor.py:156} INFO - Started process (PID=8148) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:48:25.608+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2023-05-24T21:48:25.609+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:25.609+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:48:25.612+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:48:25.628+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.027 seconds
+[2023-05-24T21:49:25.501+0200] {processor.py:156} INFO - Started process (PID=8204) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:49:25.536+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2023-05-24T21:49:25.537+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:25.537+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:49:25.539+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:49:25.548+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.050 seconds
+[2023-05-24T21:50:12.698+0200] {processor.py:156} INFO - Started process (PID=8252) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:50:12.699+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2023-05-24T21:50:12.701+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:12.700+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:50:12.704+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:50:12.723+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.029 seconds
+[2023-05-24T21:50:59.284+0200] {processor.py:156} INFO - Started process (PID=8299) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:50:59.292+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2023-05-24T21:50:59.293+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:59.293+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:50:59.295+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2023-05-24T21:50:59.302+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.020 seconds

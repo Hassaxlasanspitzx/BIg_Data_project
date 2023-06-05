@@ -1,0 +1,53 @@
+[2023-05-24T18:46:01.901+0200] {processor.py:156} INFO - Started process (PID=7933) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T18:46:01.903+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-05-24T18:46:01.904+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:01.904+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T18:46:01.918+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T18:46:02.140+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:02.139+0200] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_task_group
+[2023-05-24T18:46:02.375+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:02.374+0200] {manager.py:504} INFO - Created Permission View: can read on DAG:example_task_group
+[2023-05-24T18:46:02.396+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:02.395+0200] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_task_group
+[2023-05-24T18:46:02.396+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:02.396+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:46:02.417+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:02.417+0200] {dag.py:2747} INFO - Creating ORM DAG for example_task_group
+[2023-05-24T18:46:02.433+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:02.433+0200] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-05-23T16:46:02.433388+00:00, run_after=2023-05-24T16:46:02.433388+00:00
+[2023-05-24T18:46:02.463+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.566 seconds
+[2023-05-24T18:46:55.000+0200] {processor.py:156} INFO - Started process (PID=7978) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T18:46:55.036+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-05-24T18:46:55.038+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:55.038+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T18:46:55.058+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T18:46:55.112+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:55.112+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:46:55.146+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:55.145+0200] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-05-23T16:46:55.145421+00:00, run_after=2023-05-24T16:46:55.145421+00:00
+[2023-05-24T18:46:55.435+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.440 seconds
+[2023-05-24T21:47:33.822+0200] {processor.py:156} INFO - Started process (PID=8095) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:47:33.824+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-05-24T21:47:33.824+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:33.824+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:47:33.833+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:47:33.857+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:33.857+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:47:33.881+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:33.881+0200] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-05-23T19:47:33.880755+00:00, run_after=2023-05-24T19:47:33.880755+00:00
+[2023-05-24T21:47:33.914+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.095 seconds
+[2023-05-24T21:48:22.898+0200] {processor.py:156} INFO - Started process (PID=8145) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:48:22.936+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-05-24T21:48:22.938+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:22.938+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:48:22.956+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:48:22.995+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:22.995+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:48:23.021+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:23.021+0200] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-05-23T19:48:23.020977+00:00, run_after=2023-05-24T19:48:23.020977+00:00
+[2023-05-24T21:48:23.057+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.164 seconds
+[2023-05-24T21:49:22.076+0200] {processor.py:156} INFO - Started process (PID=8201) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:49:22.077+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-05-24T21:49:22.078+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:22.078+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:49:22.085+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:49:22.105+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:22.105+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:49:22.131+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:22.131+0200] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-05-23T19:49:22.130568+00:00, run_after=2023-05-24T19:49:22.130568+00:00
+[2023-05-24T21:49:22.159+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.086 seconds
+[2023-05-24T21:50:09.271+0200] {processor.py:156} INFO - Started process (PID=8249) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:50:09.273+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-05-24T21:50:09.274+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:09.274+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:50:09.283+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:50:09.301+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:09.301+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:50:09.318+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:09.318+0200] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-05-23T19:50:09.318289+00:00, run_after=2023-05-24T19:50:09.318289+00:00
+[2023-05-24T21:50:09.340+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.070 seconds
+[2023-05-24T21:50:56.437+0200] {processor.py:156} INFO - Started process (PID=8296) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:50:56.438+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-05-24T21:50:56.439+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:56.439+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:50:56.451+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-05-24T21:50:56.472+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:56.472+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:50:56.495+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:56.495+0200] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-05-23T19:50:56.494779+00:00, run_after=2023-05-24T19:50:56.494779+00:00
+[2023-05-24T21:50:56.521+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.088 seconds

@@ -1,0 +1,67 @@
+[2023-05-24T18:45:22.518+0200] {processor.py:156} INFO - Started process (PID=7904) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T18:45:22.520+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-24T18:45:22.521+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:22.521+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T18:45:22.536+0200] {processor.py:809} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T18:45:22.719+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:22.719+0200] {manager.py:504} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api
+[2023-05-24T18:45:22.737+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:22.737+0200] {manager.py:504} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api
+[2023-05-24T18:45:22.755+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:22.755+0200] {manager.py:504} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api
+[2023-05-24T18:45:22.756+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:22.755+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:45:22.770+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:22.769+0200] {dag.py:2747} INFO - Creating ORM DAG for tutorial_taskflow_api
+[2023-05-24T18:45:22.781+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:22.780+0200] {dag.py:3486} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-24T18:45:23.003+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.490 seconds
+[2023-05-24T18:46:23.032+0200] {processor.py:156} INFO - Started process (PID=7951) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T18:46:23.068+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-24T18:46:23.069+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:23.069+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T18:46:23.080+0200] {processor.py:809} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T18:46:23.115+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:23.114+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:46:23.149+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:23.149+0200] {dag.py:3486} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-24T18:46:23.192+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.166 seconds
+[2023-05-24T18:47:13.668+0200] {processor.py:156} INFO - Started process (PID=7996) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T18:47:13.706+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-24T18:47:13.707+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:13.707+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T18:47:13.721+0200] {processor.py:809} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T18:47:13.757+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:13.757+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:47:13.784+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:13.784+0200] {dag.py:3486} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-24T18:47:14.001+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.340 seconds
+[2023-05-24T21:47:04.298+0200] {processor.py:156} INFO - Started process (PID=8066) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:47:04.300+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-24T21:47:04.301+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:04.301+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:47:04.305+0200] {processor.py:809} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:47:04.387+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:04.387+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:47:04.399+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:04.399+0200] {dag.py:3486} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-24T21:47:04.451+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.154 seconds
+[2023-05-24T21:47:51.905+0200] {processor.py:156} INFO - Started process (PID=8113) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:47:51.907+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-24T21:47:51.908+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:51.908+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:47:51.915+0200] {processor.py:809} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:47:51.938+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:51.938+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:47:51.964+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:51.963+0200] {dag.py:3486} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-24T21:47:51.995+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.093 seconds
+[2023-05-24T21:48:38.861+0200] {processor.py:156} INFO - Started process (PID=8160) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:48:38.863+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-24T21:48:38.864+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:38.864+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:48:38.871+0200] {processor.py:809} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:48:38.895+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:38.894+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:48:38.919+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:38.919+0200] {dag.py:3486} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-24T21:48:38.956+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.101 seconds
+[2023-05-24T21:49:31.067+0200] {processor.py:156} INFO - Started process (PID=8210) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:49:31.104+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-24T21:49:31.105+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:31.104+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:49:31.113+0200] {processor.py:809} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:49:31.137+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:31.137+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:49:31.175+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:31.175+0200] {dag.py:3486} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-24T21:49:31.209+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.146 seconds
+[2023-05-24T21:50:17.359+0200] {processor.py:156} INFO - Started process (PID=8256) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:50:17.360+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-24T21:50:17.361+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:17.361+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:50:17.367+0200] {processor.py:809} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:50:17.385+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:17.385+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:50:17.402+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:17.401+0200] {dag.py:3486} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-24T21:50:17.430+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.073 seconds
+[2023-05-24T21:51:04.466+0200] {processor.py:156} INFO - Started process (PID=8304) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:51:04.501+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-05-24T21:51:04.502+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:51:04.502+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:51:04.507+0200] {processor.py:809} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-05-24T21:51:04.521+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:51:04.521+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:51:04.536+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:51:04.536+0200] {dag.py:3486} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-05-24T21:51:04.563+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.099 seconds

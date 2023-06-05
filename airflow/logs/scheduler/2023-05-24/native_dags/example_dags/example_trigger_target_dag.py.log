@@ -1,0 +1,67 @@
+[2023-05-24T18:45:13.712+0200] {processor.py:156} INFO - Started process (PID=7898) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T18:45:13.713+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-05-24T18:45:13.714+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:13.714+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T18:45:13.725+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T18:45:13.968+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:13.968+0200] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_trigger_target_dag
+[2023-05-24T18:45:13.983+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:13.982+0200] {manager.py:504} INFO - Created Permission View: can read on DAG:example_trigger_target_dag
+[2023-05-24T18:45:13.997+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:13.997+0200] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_trigger_target_dag
+[2023-05-24T18:45:13.997+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:13.997+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:45:14.011+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:14.010+0200] {dag.py:2747} INFO - Creating ORM DAG for example_trigger_target_dag
+[2023-05-24T18:45:14.023+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:14.023+0200] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-05-24T18:45:14.056+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.350 seconds
+[2023-05-24T18:46:16.659+0200] {processor.py:156} INFO - Started process (PID=7945) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T18:46:16.696+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-05-24T18:46:16.698+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:16.697+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T18:46:16.708+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T18:46:16.744+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:16.743+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:46:16.772+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:16.772+0200] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-05-24T18:46:16.809+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.155 seconds
+[2023-05-24T18:47:05.586+0200] {processor.py:156} INFO - Started process (PID=7990) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T18:47:05.623+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-05-24T18:47:05.624+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:05.624+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T18:47:05.634+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T18:47:05.670+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:05.669+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:47:05.712+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:05.712+0200] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-05-24T18:47:05.895+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.314 seconds
+[2023-05-24T21:46:56.391+0200] {processor.py:156} INFO - Started process (PID=8060) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:46:56.427+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-05-24T21:46:56.428+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:46:56.428+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:46:56.434+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:46:56.618+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:46:56.617+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:46:56.640+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:46:56.640+0200] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-05-24T21:46:56.669+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.282 seconds
+[2023-05-24T21:47:46.283+0200] {processor.py:156} INFO - Started process (PID=8107) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:47:46.284+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-05-24T21:47:46.285+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:46.285+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:47:46.289+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:47:46.304+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:46.303+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:47:46.322+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:46.322+0200] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-05-24T21:47:46.344+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2023-05-24T21:48:31.683+0200] {processor.py:156} INFO - Started process (PID=8154) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:48:31.686+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-05-24T21:48:31.687+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:31.687+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:48:31.698+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:48:31.731+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:31.730+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:48:31.758+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:31.758+0200] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-05-24T21:48:31.794+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.115 seconds
+[2023-05-24T21:49:11.786+0200] {processor.py:156} INFO - Started process (PID=8189) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:49:11.788+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-05-24T21:49:11.789+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:11.788+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:49:11.797+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:49:11.825+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:11.825+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:49:11.847+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:11.847+0200] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-05-24T21:49:11.868+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.084 seconds
+[2023-05-24T21:49:47.703+0200] {processor.py:156} INFO - Started process (PID=8226) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:49:47.706+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-05-24T21:49:47.707+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:47.707+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:49:47.712+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:49:47.726+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:47.726+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:49:47.745+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:47.745+0200] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-05-24T21:49:47.763+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
+[2023-05-24T21:50:31.901+0200] {processor.py:156} INFO - Started process (PID=8273) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:50:31.937+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-05-24T21:50:31.938+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:31.937+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:50:31.943+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-05-24T21:50:31.963+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:31.963+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:50:31.981+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:31.981+0200] {dag.py:3486} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-05-24T21:50:32.004+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.105 seconds

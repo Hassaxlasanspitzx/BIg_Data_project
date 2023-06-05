@@ -1,0 +1,60 @@
+[2023-05-24T18:45:43.165+0200] {processor.py:156} INFO - Started process (PID=7919) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T18:45:43.167+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-24T18:45:43.168+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:43.168+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T18:45:43.181+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T18:45:43.357+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:43.357+0200] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2023-05-24T18:45:43.382+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:43.381+0200] {manager.py:504} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2023-05-24T18:45:43.407+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:43.406+0200] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2023-05-24T18:45:43.407+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:43.407+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:45:43.625+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:43.624+0200] {dag.py:2747} INFO - Creating ORM DAG for example_skip_dag
+[2023-05-24T18:45:43.638+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:43.638+0200] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-05-23T16:45:43.637878+00:00, run_after=2023-05-24T16:45:43.637878+00:00
+[2023-05-24T18:45:43.720+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.559 seconds
+[2023-05-24T18:46:38.925+0200] {processor.py:156} INFO - Started process (PID=7964) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T18:46:38.961+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-24T18:46:38.962+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:38.962+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T18:46:38.972+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T18:46:39.012+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:39.012+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:46:39.055+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:39.053+0200] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-05-23T16:46:39.053402+00:00, run_after=2023-05-24T16:46:39.053402+00:00
+[2023-05-24T18:46:39.143+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.223 seconds
+[2023-05-24T18:47:33.676+0200] {processor.py:156} INFO - Started process (PID=8011) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T18:47:33.712+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-24T18:47:33.714+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:33.714+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T18:47:33.726+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T18:47:33.764+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:33.764+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:47:33.942+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:33.942+0200] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-05-23T16:47:33.942274+00:00, run_after=2023-05-24T16:47:33.942274+00:00
+[2023-05-24T18:47:34.018+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.347 seconds
+[2023-05-24T21:47:20.808+0200] {processor.py:156} INFO - Started process (PID=8083) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:47:20.844+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-24T21:47:20.845+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:20.845+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:47:20.856+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:47:20.895+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:20.895+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:47:20.920+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:20.919+0200] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-05-23T19:47:20.919449+00:00, run_after=2023-05-24T19:47:20.919449+00:00
+[2023-05-24T21:47:20.955+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.150 seconds
+[2023-05-24T21:48:06.693+0200] {processor.py:156} INFO - Started process (PID=8130) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:48:06.736+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-24T21:48:06.739+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:06.738+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:48:06.749+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:48:06.773+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:06.773+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:48:06.795+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:06.795+0200] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-05-23T19:48:06.795344+00:00, run_after=2023-05-24T19:48:06.795344+00:00
+[2023-05-24T21:48:06.823+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.134 seconds
+[2023-05-24T21:49:00.002+0200] {processor.py:156} INFO - Started process (PID=8178) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:49:00.004+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-24T21:49:00.005+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:00.005+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:49:00.031+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:49:00.063+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:00.063+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:49:00.089+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:00.089+0200] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-05-23T19:49:00.089126+00:00, run_after=2023-05-24T19:49:00.089126+00:00
+[2023-05-24T21:49:00.140+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2023-05-24T21:49:52.013+0200] {processor.py:156} INFO - Started process (PID=8231) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:49:52.015+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-24T21:49:52.015+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:52.015+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:49:52.020+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:49:52.037+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:52.037+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:49:52.056+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:52.055+0200] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-05-23T19:49:52.055415+00:00, run_after=2023-05-24T19:49:52.055415+00:00
+[2023-05-24T21:49:52.080+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.069 seconds
+[2023-05-24T21:50:37.423+0200] {processor.py:156} INFO - Started process (PID=8278) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:50:37.459+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-05-24T21:50:37.460+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:37.460+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:50:37.469+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-05-24T21:50:37.498+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:37.498+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:50:37.522+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:37.522+0200] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-05-23T19:50:37.521732+00:00, run_after=2023-05-24T19:50:37.521732+00:00
+[2023-05-24T21:50:37.553+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.133 seconds

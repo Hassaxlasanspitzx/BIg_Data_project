@@ -1,0 +1,36 @@
+[2023-05-24T18:46:06.294+0200] {processor.py:156} INFO - Started process (PID=7937) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T18:46:06.295+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-05-24T18:46:06.295+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:06.295+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T18:46:06.298+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:06.298+0200] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-05-24T18:46:06.299+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T18:46:06.314+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.027 seconds
+[2023-05-24T18:47:20.239+0200] {processor.py:156} INFO - Started process (PID=8001) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T18:47:20.275+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-05-24T18:47:20.278+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:20.277+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T18:47:20.285+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:20.284+0200] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-05-24T18:47:20.286+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T18:47:20.304+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.071 seconds
+[2023-05-24T21:47:37.714+0200] {processor.py:156} INFO - Started process (PID=8099) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T21:47:37.715+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-05-24T21:47:37.716+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:37.716+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T21:47:37.718+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:37.718+0200] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-05-24T21:47:37.719+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T21:47:37.730+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2023-05-24T21:48:26.787+0200] {processor.py:156} INFO - Started process (PID=8149) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T21:48:26.807+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-05-24T21:48:26.808+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:26.808+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T21:48:26.813+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:26.813+0200] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-05-24T21:48:26.814+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T21:48:26.834+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.051 seconds
+[2023-05-24T21:49:26.077+0200] {processor.py:156} INFO - Started process (PID=8205) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T21:49:26.079+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-05-24T21:49:26.079+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:26.079+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T21:49:26.081+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:26.081+0200] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-05-24T21:49:26.081+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T21:49:26.090+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.015 seconds
+[2023-05-24T21:50:13.844+0200] {processor.py:156} INFO - Started process (PID=8253) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T21:50:13.845+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-05-24T21:50:13.845+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:13.845+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T21:50:13.847+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:13.847+0200] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-05-24T21:50:13.848+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-05-24T21:50:13.856+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds

@@ -1,0 +1,67 @@
+[2023-05-24T18:45:20.952+0200] {processor.py:156} INFO - Started process (PID=7903) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T18:45:20.953+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-05-24T18:45:20.955+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:20.954+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T18:45:20.969+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T18:45:21.174+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:21.173+0200] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_dynamic_task_mapping
+[2023-05-24T18:45:21.195+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:21.194+0200] {manager.py:504} INFO - Created Permission View: can read on DAG:example_dynamic_task_mapping
+[2023-05-24T18:45:21.213+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:21.212+0200] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_dynamic_task_mapping
+[2023-05-24T18:45:21.213+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:21.213+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:45:21.232+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:21.232+0200] {dag.py:2747} INFO - Creating ORM DAG for example_dynamic_task_mapping
+[2023-05-24T18:45:21.250+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:21.250+0200] {dag.py:3486} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-05-24T18:45:21.431+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.484 seconds
+[2023-05-24T18:46:21.743+0200] {processor.py:156} INFO - Started process (PID=7950) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T18:46:21.781+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-05-24T18:46:21.783+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:21.783+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T18:46:21.801+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T18:46:21.835+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:21.834+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:46:21.862+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:21.862+0200] {dag.py:3486} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-05-24T18:46:21.893+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.157 seconds
+[2023-05-24T18:47:12.158+0200] {processor.py:156} INFO - Started process (PID=7995) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T18:47:12.196+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-05-24T18:47:12.197+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:12.197+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T18:47:12.208+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T18:47:12.240+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:12.239+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:47:12.426+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:12.425+0200] {dag.py:3486} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-05-24T18:47:12.490+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.337 seconds
+[2023-05-24T21:47:02.956+0200] {processor.py:156} INFO - Started process (PID=8065) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:47:02.991+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-05-24T21:47:02.992+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:02.992+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:47:03.087+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:47:03.101+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:03.101+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:47:03.119+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:03.118+0200] {dag.py:3486} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-05-24T21:47:03.175+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.222 seconds
+[2023-05-24T21:47:51.354+0200] {processor.py:156} INFO - Started process (PID=8112) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:47:51.357+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-05-24T21:47:51.358+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:51.358+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:47:51.367+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:47:51.389+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:51.389+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:47:51.414+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:51.414+0200] {dag.py:3486} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-05-24T21:47:51.443+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.092 seconds
+[2023-05-24T21:48:37.492+0200] {processor.py:156} INFO - Started process (PID=8159) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:48:37.524+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-05-24T21:48:37.525+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:37.525+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:48:37.546+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:48:37.609+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:37.608+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:48:37.690+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:37.690+0200] {dag.py:3486} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-05-24T21:48:37.754+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.267 seconds
+[2023-05-24T21:49:29.923+0200] {processor.py:156} INFO - Started process (PID=8209) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:49:29.925+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-05-24T21:49:29.926+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:29.926+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:49:29.936+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:49:29.957+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:29.957+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:49:29.975+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:29.975+0200] {dag.py:3486} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-05-24T21:49:29.998+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.078 seconds
+[2023-05-24T21:50:16.226+0200] {processor.py:156} INFO - Started process (PID=8255) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:50:16.231+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-05-24T21:50:16.232+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:16.232+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:50:16.237+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:50:16.251+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:16.250+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:50:16.270+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:16.270+0200] {dag.py:3486} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-05-24T21:50:16.293+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.072 seconds
+[2023-05-24T21:51:03.597+0200] {processor.py:156} INFO - Started process (PID=8303) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:51:03.633+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2023-05-24T21:51:03.634+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:51:03.634+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:51:03.639+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2023-05-24T21:51:03.653+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:51:03.653+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:51:03.670+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:51:03.669+0200] {dag.py:3486} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2023-05-24T21:51:03.695+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.100 seconds

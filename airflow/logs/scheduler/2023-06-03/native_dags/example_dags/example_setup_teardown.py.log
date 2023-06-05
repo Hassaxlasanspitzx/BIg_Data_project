@@ -1,0 +1,800 @@
+[2023-06-03T14:57:28.528+0200] {processor.py:156} INFO - Started process (PID=1831) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T14:57:28.529+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T14:57:28.530+0200] {logging_mixin.py:149} INFO - [2023-06-03T14:57:28.530+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T14:57:28.532+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T14:57:28.538+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.012 seconds
+[2023-06-03T14:58:09.647+0200] {processor.py:156} INFO - Started process (PID=1886) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T14:58:09.658+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T14:58:09.659+0200] {logging_mixin.py:149} INFO - [2023-06-03T14:58:09.659+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T14:58:09.660+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T14:58:09.666+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.020 seconds
+[2023-06-03T14:58:57.612+0200] {processor.py:156} INFO - Started process (PID=2865) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T14:58:57.613+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T14:58:57.614+0200] {logging_mixin.py:149} INFO - [2023-06-03T14:58:57.614+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T14:58:57.616+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T14:58:57.622+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.012 seconds
+[2023-06-03T14:59:44.576+0200] {processor.py:156} INFO - Started process (PID=2930) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T14:59:44.587+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T14:59:44.588+0200] {logging_mixin.py:149} INFO - [2023-06-03T14:59:44.588+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T14:59:44.589+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T14:59:44.595+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T15:00:28.644+0200] {processor.py:156} INFO - Started process (PID=2975) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:00:28.646+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:00:28.646+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:00:28.646+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:00:28.647+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:00:28.654+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.012 seconds
+[2023-06-03T15:01:17.073+0200] {processor.py:156} INFO - Started process (PID=3036) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:01:17.075+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:01:17.075+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:01:17.075+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:01:17.077+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:01:17.088+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.016 seconds
+[2023-06-03T15:02:03.634+0200] {processor.py:156} INFO - Started process (PID=3167) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:02:03.636+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:02:03.637+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:02:03.636+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:02:03.637+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:02:03.644+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.013 seconds
+[2023-06-03T15:03:15.716+0200] {processor.py:156} INFO - Started process (PID=3264) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:03:15.728+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:03:15.729+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:03:15.729+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:03:15.730+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:03:15.736+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.023 seconds
+[2023-06-03T15:03:59.788+0200] {processor.py:156} INFO - Started process (PID=3309) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:03:59.800+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:03:59.800+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:03:59.800+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:03:59.801+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:03:59.807+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:04:43.260+0200] {processor.py:156} INFO - Started process (PID=3356) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:04:43.272+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:04:43.273+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:04:43.273+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:04:43.274+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:04:43.280+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T15:05:27.341+0200] {processor.py:156} INFO - Started process (PID=3401) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:05:27.352+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:05:27.353+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:05:27.353+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:05:27.354+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:05:27.360+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T15:06:12.842+0200] {processor.py:156} INFO - Started process (PID=3449) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:06:12.843+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:06:12.843+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:06:12.843+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:06:12.844+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:06:12.850+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.010 seconds
+[2023-06-03T15:06:54.863+0200] {processor.py:156} INFO - Started process (PID=3497) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:06:54.864+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:06:54.865+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:06:54.865+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:06:54.866+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:06:54.873+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.011 seconds
+[2023-06-03T15:07:35.186+0200] {processor.py:156} INFO - Started process (PID=3540) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:07:35.187+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:07:35.187+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:07:35.187+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:07:35.188+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:07:35.194+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.010 seconds
+[2023-06-03T15:10:55.701+0200] {processor.py:156} INFO - Started process (PID=4430) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:10:55.702+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:10:55.703+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:10:55.703+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:10:55.704+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:10:55.710+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.011 seconds
+[2023-06-03T15:11:41.146+0200] {processor.py:156} INFO - Started process (PID=5173) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:11:41.148+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:11:41.148+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:11:41.148+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:11:41.149+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:11:41.156+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.012 seconds
+[2023-06-03T15:12:28.621+0200] {processor.py:156} INFO - Started process (PID=5228) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:12:28.631+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:12:28.632+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:12:28.632+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:12:28.633+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:12:28.639+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:13:22.985+0200] {processor.py:156} INFO - Started process (PID=6353) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:13:22.996+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:13:22.997+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:13:22.997+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:13:22.998+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:13:23.004+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:14:08.714+0200] {processor.py:156} INFO - Started process (PID=6405) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:14:08.725+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:14:08.725+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:14:08.725+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:14:08.726+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:14:08.732+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T15:14:51.256+0200] {processor.py:156} INFO - Started process (PID=6451) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:14:51.267+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:14:51.268+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:14:51.268+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:14:51.269+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:14:51.279+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.026 seconds
+[2023-06-03T15:15:36.482+0200] {processor.py:156} INFO - Started process (PID=6497) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:15:36.484+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:15:36.484+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:15:36.484+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:15:36.485+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:15:36.491+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.011 seconds
+[2023-06-03T15:16:22.860+0200] {processor.py:156} INFO - Started process (PID=6547) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:16:22.862+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:16:22.863+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:16:22.863+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:16:22.865+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:16:22.878+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.019 seconds
+[2023-06-03T15:17:08.994+0200] {processor.py:156} INFO - Started process (PID=6603) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:17:08.995+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:17:08.996+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:17:08.996+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:17:08.997+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:17:09.003+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.011 seconds
+[2023-06-03T15:17:55.533+0200] {processor.py:156} INFO - Started process (PID=6651) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:17:55.535+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:17:55.535+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:17:55.535+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:17:55.536+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:17:55.543+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.013 seconds
+[2023-06-03T15:18:44.038+0200] {processor.py:156} INFO - Started process (PID=7468) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:18:44.039+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:18:44.040+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:18:44.040+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:18:44.041+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:18:44.048+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.012 seconds
+[2023-06-03T15:19:32.762+0200] {processor.py:156} INFO - Started process (PID=7544) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:19:32.764+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:19:32.764+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:19:32.764+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:19:32.766+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:19:32.773+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-03T15:20:22.125+0200] {processor.py:156} INFO - Started process (PID=7598) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:20:22.136+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:20:22.136+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:20:22.136+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:20:22.137+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:20:22.143+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:21:09.626+0200] {processor.py:156} INFO - Started process (PID=8984) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:21:09.636+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:21:09.637+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:21:09.636+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:21:09.638+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:21:09.645+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:21:58.151+0200] {processor.py:156} INFO - Started process (PID=9824) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:21:58.153+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:21:58.153+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:21:58.153+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:21:58.154+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:21:58.161+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.013 seconds
+[2023-06-03T15:22:52.395+0200] {processor.py:156} INFO - Started process (PID=9886) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:22:52.407+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:22:52.407+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:22:52.407+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:22:52.408+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:22:52.415+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:23:38.739+0200] {processor.py:156} INFO - Started process (PID=9935) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:23:38.749+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:23:38.750+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:23:38.750+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:23:38.751+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:23:38.758+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.020 seconds
+[2023-06-03T15:24:24.070+0200] {processor.py:156} INFO - Started process (PID=9984) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:24:24.072+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:24:24.074+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:24:24.073+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:24:24.075+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:24:24.084+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.017 seconds
+[2023-06-03T15:25:10.495+0200] {processor.py:156} INFO - Started process (PID=11423) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:25:10.497+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:25:10.498+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:25:10.498+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:25:10.499+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:25:10.506+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.015 seconds
+[2023-06-03T15:25:56.062+0200] {processor.py:156} INFO - Started process (PID=11471) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:25:56.063+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:25:56.064+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:25:56.064+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:25:56.065+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:25:56.071+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.010 seconds
+[2023-06-03T15:26:44.348+0200] {processor.py:156} INFO - Started process (PID=12964) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:26:44.350+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:26:44.351+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:26:44.351+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:26:44.353+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:26:44.360+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.015 seconds
+[2023-06-03T15:27:31.514+0200] {processor.py:156} INFO - Started process (PID=14011) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:27:31.526+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:27:31.526+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:27:31.526+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:27:31.527+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:27:31.533+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T15:28:16.740+0200] {processor.py:156} INFO - Started process (PID=14730) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:28:16.751+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:28:16.752+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:28:16.751+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:28:16.752+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:28:16.758+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:29:01.374+0200] {processor.py:156} INFO - Started process (PID=14779) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:29:01.385+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:29:01.385+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:29:01.385+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:29:01.386+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:29:01.393+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:29:45.709+0200] {processor.py:156} INFO - Started process (PID=15674) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:29:45.710+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:29:45.710+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:29:45.710+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:29:45.711+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:29:45.718+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.011 seconds
+[2023-06-03T15:30:29.401+0200] {processor.py:156} INFO - Started process (PID=15871) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:30:29.403+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:30:29.403+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:30:29.403+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:30:29.404+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:30:29.410+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.011 seconds
+[2023-06-03T15:31:11.707+0200] {processor.py:156} INFO - Started process (PID=15916) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:31:11.709+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:31:11.710+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:31:11.710+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:31:11.712+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:31:11.719+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.016 seconds
+[2023-06-03T15:32:00.931+0200] {processor.py:156} INFO - Started process (PID=17029) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:32:00.941+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:32:00.942+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:32:00.942+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:32:00.943+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:32:00.949+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T15:32:49.500+0200] {processor.py:156} INFO - Started process (PID=18303) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:32:49.501+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:32:49.502+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:32:49.502+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:32:49.503+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:32:49.510+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.012 seconds
+[2023-06-03T15:33:34.911+0200] {processor.py:156} INFO - Started process (PID=19394) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:33:34.913+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:33:34.914+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:33:34.914+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:33:34.916+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:33:34.924+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.016 seconds
+[2023-06-03T15:34:19.084+0200] {processor.py:156} INFO - Started process (PID=20241) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:34:19.094+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:34:19.095+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:34:19.095+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:34:19.096+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:34:19.102+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.020 seconds
+[2023-06-03T15:35:02.378+0200] {processor.py:156} INFO - Started process (PID=21027) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:35:02.379+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:35:02.380+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:35:02.380+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:35:02.382+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:35:02.395+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.020 seconds
+[2023-06-03T15:36:01.446+0200] {processor.py:156} INFO - Started process (PID=23928) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:36:01.448+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:36:01.448+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:36:01.448+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:36:01.449+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:36:01.458+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-03T15:36:56.212+0200] {processor.py:156} INFO - Started process (PID=30301) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:36:56.215+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:36:56.215+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:36:56.215+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:36:56.216+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:36:56.223+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-03T15:37:45.464+0200] {processor.py:156} INFO - Started process (PID=30359) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:37:45.466+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:37:45.466+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:37:45.466+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:37:45.467+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:37:45.474+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.013 seconds
+[2023-06-03T15:38:36.940+0200] {processor.py:156} INFO - Started process (PID=30422) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:38:36.943+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:38:36.944+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:38:36.944+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:38:36.945+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:38:36.952+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.015 seconds
+[2023-06-03T15:39:25.141+0200] {processor.py:156} INFO - Started process (PID=30470) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:39:25.143+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:39:25.143+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:39:25.143+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:39:25.144+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:39:25.151+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.011 seconds
+[2023-06-03T15:40:20.105+0200] {processor.py:156} INFO - Started process (PID=31896) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:40:20.117+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:40:20.118+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:40:20.118+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:40:20.119+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:40:20.125+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.023 seconds
+[2023-06-03T15:41:03.420+0200] {processor.py:156} INFO - Started process (PID=31944) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:41:03.422+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:41:03.423+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:41:03.423+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:41:03.424+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:41:03.430+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.012 seconds
+[2023-06-03T15:41:55.013+0200] {processor.py:156} INFO - Started process (PID=33214) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:41:55.022+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:41:55.023+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:41:55.023+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:41:55.024+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:41:55.031+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:42:43.395+0200] {processor.py:156} INFO - Started process (PID=33272) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:42:43.407+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:42:43.407+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:42:43.407+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:42:43.408+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:42:43.415+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T15:43:34.937+0200] {processor.py:156} INFO - Started process (PID=33324) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:43:34.948+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:43:34.949+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:43:34.949+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:43:34.950+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:43:34.957+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:44:24.046+0200] {processor.py:156} INFO - Started process (PID=34987) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:44:24.057+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:44:24.058+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:44:24.058+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:44:24.059+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:44:24.066+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T15:45:08.589+0200] {processor.py:156} INFO - Started process (PID=35042) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:45:08.601+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:45:08.602+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:45:08.602+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:45:08.603+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:45:08.609+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.025 seconds
+[2023-06-03T15:45:54.974+0200] {processor.py:156} INFO - Started process (PID=36263) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:45:54.984+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:45:54.985+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:45:54.985+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:45:54.986+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:45:54.993+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:46:41.070+0200] {processor.py:156} INFO - Started process (PID=37248) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:46:41.083+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:46:41.084+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:46:41.084+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:46:41.085+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:46:41.091+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.023 seconds
+[2023-06-03T15:47:29.403+0200] {processor.py:156} INFO - Started process (PID=37302) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:47:29.414+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:47:29.415+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:47:29.415+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:47:29.416+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:47:29.422+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:48:16.683+0200] {processor.py:156} INFO - Started process (PID=37351) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:48:16.694+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:48:16.694+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:48:16.694+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:48:16.695+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:48:16.702+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:49:02.690+0200] {processor.py:156} INFO - Started process (PID=37399) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:49:02.702+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:49:02.702+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:49:02.702+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:49:02.703+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:49:02.710+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T15:49:50.338+0200] {processor.py:156} INFO - Started process (PID=37447) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:49:50.351+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:49:50.352+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:49:50.352+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:49:50.353+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:49:50.359+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.024 seconds
+[2023-06-03T15:50:43.302+0200] {processor.py:156} INFO - Started process (PID=38547) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:50:43.314+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:50:43.314+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:50:43.314+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:50:43.315+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:50:43.322+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T15:51:31.723+0200] {processor.py:156} INFO - Started process (PID=39681) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:51:31.725+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:51:31.725+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:51:31.725+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:51:31.726+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:51:31.735+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-03T15:52:29.362+0200] {processor.py:156} INFO - Started process (PID=40513) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:52:29.374+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:52:29.375+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:52:29.375+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:52:29.376+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:52:29.383+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.024 seconds
+[2023-06-03T15:53:24.054+0200] {processor.py:156} INFO - Started process (PID=40571) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:53:24.064+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:53:24.065+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:53:24.065+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:53:24.066+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:53:24.072+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.020 seconds
+[2023-06-03T15:54:11.980+0200] {processor.py:156} INFO - Started process (PID=40621) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:54:11.993+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:54:11.993+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:54:11.993+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:54:11.994+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:54:12.001+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.024 seconds
+[2023-06-03T15:54:57.617+0200] {processor.py:156} INFO - Started process (PID=40668) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:54:57.629+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:54:57.629+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:54:57.629+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:54:57.630+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:54:57.636+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T15:55:42.322+0200] {processor.py:156} INFO - Started process (PID=40716) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:55:42.332+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:55:42.333+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:55:42.333+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:55:42.334+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:55:42.340+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.020 seconds
+[2023-06-03T15:56:28.694+0200] {processor.py:156} INFO - Started process (PID=40762) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:56:28.698+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:56:28.700+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:56:28.700+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:56:28.704+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:56:28.726+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.038 seconds
+[2023-06-03T15:57:19.524+0200] {processor.py:156} INFO - Started process (PID=40813) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:57:19.526+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:57:19.526+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:57:19.526+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:57:19.527+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:57:19.534+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.011 seconds
+[2023-06-03T15:58:05.821+0200] {processor.py:156} INFO - Started process (PID=40862) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:58:05.823+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:58:05.824+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:58:05.824+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:58:05.826+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:58:05.835+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.017 seconds
+[2023-06-03T15:58:52.099+0200] {processor.py:156} INFO - Started process (PID=40911) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:58:52.101+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:58:52.101+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:58:52.101+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:58:52.104+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:58:52.112+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.016 seconds
+[2023-06-03T15:59:36.763+0200] {processor.py:156} INFO - Started process (PID=40957) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:59:36.774+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T15:59:36.775+0200] {logging_mixin.py:149} INFO - [2023-06-03T15:59:36.775+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:59:36.776+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T15:59:36.782+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.023 seconds
+[2023-06-03T16:00:26.907+0200] {processor.py:156} INFO - Started process (PID=41008) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:00:26.908+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:00:26.908+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:00:26.908+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:00:26.909+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:00:26.916+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.011 seconds
+[2023-06-03T16:01:12.822+0200] {processor.py:156} INFO - Started process (PID=41056) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:01:12.835+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:01:12.835+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:01:12.835+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:01:12.836+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:01:12.843+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.023 seconds
+[2023-06-03T16:02:03.626+0200] {processor.py:156} INFO - Started process (PID=41108) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:02:03.637+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:02:03.637+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:02:03.637+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:02:03.638+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:02:03.644+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T16:02:52.395+0200] {processor.py:156} INFO - Started process (PID=41158) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:02:52.406+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:02:52.406+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:02:52.406+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:02:52.407+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:02:52.414+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T16:03:38.399+0200] {processor.py:156} INFO - Started process (PID=41206) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:03:38.400+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:03:38.401+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:03:38.401+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:03:38.402+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:03:38.408+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.011 seconds
+[2023-06-03T16:04:29.291+0200] {processor.py:156} INFO - Started process (PID=41259) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:04:29.303+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:04:29.304+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:04:29.304+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:04:29.305+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:04:29.312+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.024 seconds
+[2023-06-03T16:05:18.722+0200] {processor.py:156} INFO - Started process (PID=41308) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:05:18.732+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:05:18.733+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:05:18.733+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:05:18.734+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:05:18.740+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T16:06:06.188+0200] {processor.py:156} INFO - Started process (PID=41358) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:06:06.199+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:06:06.199+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:06:06.199+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:06:06.200+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:06:06.207+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-03T16:06:54.065+0200] {processor.py:156} INFO - Started process (PID=41408) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:06:54.067+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:06:54.068+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:06:54.067+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:06:54.069+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:06:54.076+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.012 seconds
+[2023-06-03T16:07:39.440+0200] {processor.py:156} INFO - Started process (PID=41455) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:07:39.451+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:07:39.451+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:07:39.451+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:07:39.452+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:07:39.459+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-03T16:08:31.153+0200] {processor.py:156} INFO - Started process (PID=41507) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:08:31.165+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:08:31.165+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:08:31.165+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:08:31.166+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:08:31.173+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.023 seconds
+[2023-06-03T16:09:17.821+0200] {processor.py:156} INFO - Started process (PID=41555) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:09:17.823+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:09:17.824+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:09:17.824+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:09:17.825+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:09:17.832+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.015 seconds
+[2023-06-03T16:10:04.487+0200] {processor.py:156} INFO - Started process (PID=41603) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:10:04.498+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:10:04.498+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:10:04.498+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:10:04.499+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:10:04.506+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.020 seconds
+[2023-06-03T16:10:50.875+0200] {processor.py:156} INFO - Started process (PID=41652) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:10:50.878+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:10:50.879+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:10:50.878+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:10:50.880+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:10:50.888+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.016 seconds
+[2023-06-03T16:11:34.916+0200] {processor.py:156} INFO - Started process (PID=41699) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:11:34.918+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:11:34.919+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:11:34.919+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:11:34.921+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:11:34.928+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.015 seconds
+[2023-06-03T16:12:23.144+0200] {processor.py:156} INFO - Started process (PID=41748) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:12:23.155+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:12:23.155+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:12:23.155+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:12:23.156+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:12:23.163+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.023 seconds
+[2023-06-03T16:13:12.725+0200] {processor.py:156} INFO - Started process (PID=41799) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:13:12.726+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:13:12.727+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:13:12.727+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:13:12.729+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:13:12.740+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.017 seconds
+[2023-06-03T16:13:59.953+0200] {processor.py:156} INFO - Started process (PID=41847) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:13:59.965+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:13:59.966+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:13:59.966+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:13:59.967+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:13:59.973+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.024 seconds
+[2023-06-03T16:14:52.345+0200] {processor.py:156} INFO - Started process (PID=41900) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:14:52.357+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:14:52.357+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:14:52.357+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:14:52.358+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:14:52.365+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.023 seconds
+[2023-06-03T16:15:55.105+0200] {processor.py:156} INFO - Started process (PID=41961) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:15:55.141+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:15:55.142+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:15:55.142+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:15:55.145+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:15:55.161+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.061 seconds
+[2023-06-03T16:17:02.327+0200] {processor.py:156} INFO - Started process (PID=42023) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:17:02.363+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:17:02.364+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:17:02.364+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:17:02.367+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:17:02.386+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.064 seconds
+[2023-06-03T16:17:53.336+0200] {processor.py:156} INFO - Started process (PID=42065) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:17:53.373+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:17:53.374+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:17:53.374+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:17:53.375+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:17:53.386+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.053 seconds
+[2023-06-03T16:18:45.460+0200] {processor.py:156} INFO - Started process (PID=42111) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:18:45.496+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:18:45.498+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:18:45.498+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:18:45.501+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:18:45.517+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.061 seconds
+[2023-06-03T16:19:34.933+0200] {processor.py:156} INFO - Started process (PID=42153) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:19:34.971+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:19:34.973+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:19:34.972+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:19:34.976+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:19:34.995+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.068 seconds
+[2023-06-03T16:20:25.840+0200] {processor.py:156} INFO - Started process (PID=42196) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:20:25.877+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:20:25.878+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:20:25.878+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:20:25.881+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:20:25.899+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.064 seconds
+[2023-06-03T16:21:15.011+0200] {processor.py:156} INFO - Started process (PID=42239) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:21:15.048+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:21:15.050+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:21:15.050+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:21:15.053+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:21:15.070+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.066 seconds
+[2023-06-03T16:22:25.603+0200] {processor.py:156} INFO - Started process (PID=42302) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:22:25.639+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:22:25.641+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:22:25.641+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:22:25.643+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:22:25.662+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.063 seconds
+[2023-06-03T16:23:13.493+0200] {processor.py:156} INFO - Started process (PID=42345) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:23:13.529+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:23:13.530+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:23:13.530+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:23:13.533+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:23:13.552+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.064 seconds
+[2023-06-03T16:24:26.418+0200] {processor.py:156} INFO - Started process (PID=42406) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:24:26.421+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:24:26.422+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:24:26.422+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:24:26.425+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:24:26.438+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.025 seconds
+[2023-06-03T16:25:15.690+0200] {processor.py:156} INFO - Started process (PID=42449) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:25:15.726+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:25:15.728+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:25:15.727+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:25:15.730+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:25:15.752+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.067 seconds
+[2023-06-03T16:26:05.238+0200] {processor.py:156} INFO - Started process (PID=42492) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:26:05.274+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:26:05.276+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:26:05.276+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:26:05.279+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:26:05.300+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.068 seconds
+[2023-06-03T16:26:53.570+0200] {processor.py:156} INFO - Started process (PID=42535) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:26:53.607+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:26:53.609+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:26:53.608+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:26:53.612+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:26:53.630+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.063 seconds
+[2023-06-03T16:27:41.671+0200] {processor.py:156} INFO - Started process (PID=42576) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:27:41.710+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:27:41.711+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:27:41.711+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:27:41.715+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:27:41.733+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.066 seconds
+[2023-06-03T16:28:32.732+0200] {processor.py:156} INFO - Started process (PID=44490) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:28:32.756+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:28:32.757+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:28:32.757+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:28:32.758+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:28:32.766+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.037 seconds
+[2023-06-03T16:29:35.178+0200] {processor.py:156} INFO - Started process (PID=45880) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:29:35.215+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:29:35.215+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:29:35.215+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:29:35.217+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:29:35.227+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.051 seconds
+[2023-06-03T16:30:43.470+0200] {processor.py:156} INFO - Started process (PID=47340) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:30:43.506+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:30:43.508+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:30:43.507+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:30:43.510+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:30:43.525+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.059 seconds
+[2023-06-03T16:31:34.648+0200] {processor.py:156} INFO - Started process (PID=49056) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:31:34.651+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:31:34.653+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:31:34.652+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:31:34.657+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:31:34.684+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.042 seconds
+[2023-06-03T16:32:25.431+0200] {processor.py:156} INFO - Started process (PID=50110) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:32:25.468+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:32:25.469+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:32:25.469+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:32:25.472+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:32:25.492+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.065 seconds
+[2023-06-03T16:33:15.017+0200] {processor.py:156} INFO - Started process (PID=50165) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:33:15.054+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:33:15.055+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:33:15.055+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:33:15.058+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:33:15.077+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.065 seconds
+[2023-06-03T16:34:03.048+0200] {processor.py:156} INFO - Started process (PID=51517) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:34:03.085+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:34:03.086+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:34:03.086+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:34:03.088+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:34:03.105+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.069 seconds
+[2023-06-03T16:34:54.069+0200] {processor.py:156} INFO - Started process (PID=51572) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:34:54.106+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:34:54.107+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:34:54.107+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:34:54.110+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:34:54.131+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.066 seconds
+[2023-06-03T16:35:41.281+0200] {processor.py:156} INFO - Started process (PID=53830) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:35:41.284+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:35:41.286+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:35:41.285+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:35:41.288+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:35:41.306+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.031 seconds
+[2023-06-03T16:36:33.479+0200] {processor.py:156} INFO - Started process (PID=54535) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:36:33.481+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:36:33.482+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:36:33.482+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:36:33.484+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:36:33.498+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.023 seconds
+[2023-06-03T16:37:22.471+0200] {processor.py:156} INFO - Started process (PID=55887) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:37:22.507+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:37:22.509+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:37:22.509+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:37:22.511+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:37:22.529+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.063 seconds
+[2023-06-03T16:38:13.287+0200] {processor.py:156} INFO - Started process (PID=57216) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:38:13.323+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:38:13.324+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:38:13.324+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:38:13.326+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:38:13.333+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.048 seconds
+[2023-06-03T16:39:02.209+0200] {processor.py:156} INFO - Started process (PID=59168) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:39:02.245+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:39:02.247+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:39:02.246+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:39:02.249+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:39:02.269+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.064 seconds
+[2023-06-03T16:39:53.482+0200] {processor.py:156} INFO - Started process (PID=60782) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:39:53.518+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:39:53.519+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:39:53.519+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:39:53.522+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:39:53.550+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.073 seconds
+[2023-06-03T16:40:51.217+0200] {processor.py:156} INFO - Started process (PID=62069) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:40:51.255+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:40:51.257+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:40:51.256+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:40:51.261+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:40:51.281+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.068 seconds
+[2023-06-03T16:41:45.557+0200] {processor.py:156} INFO - Started process (PID=62132) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:41:45.559+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:41:45.561+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:41:45.560+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:41:45.564+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:41:45.585+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.032 seconds
+[2023-06-03T16:42:33.127+0200] {processor.py:156} INFO - Started process (PID=63969) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:42:33.130+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:42:33.131+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:42:33.131+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:42:33.134+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:42:33.162+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.043 seconds
+[2023-06-03T16:43:24.746+0200] {processor.py:156} INFO - Started process (PID=65770) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:43:24.749+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:43:24.751+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:43:24.751+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:43:24.753+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:43:24.773+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.032 seconds
+[2023-06-03T16:44:24.453+0200] {processor.py:156} INFO - Started process (PID=67298) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:44:24.456+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:44:24.457+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:44:24.457+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:44:24.460+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:44:24.473+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.025 seconds
+[2023-06-03T16:45:22.186+0200] {processor.py:156} INFO - Started process (PID=68747) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:45:22.223+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:45:22.225+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:45:22.224+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:45:22.227+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:45:22.250+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.070 seconds
+[2023-06-03T16:46:17.634+0200] {processor.py:156} INFO - Started process (PID=69841) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:46:17.636+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:46:17.637+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:46:17.637+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:46:17.639+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:46:17.653+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.023 seconds
+[2023-06-03T16:47:14.836+0200] {processor.py:156} INFO - Started process (PID=71841) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:47:14.873+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:47:14.874+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:47:14.874+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:47:14.877+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:47:14.895+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.064 seconds
+[2023-06-03T16:48:09.007+0200] {processor.py:156} INFO - Started process (PID=71923) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:48:09.045+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:48:09.046+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:48:09.046+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:48:09.049+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:48:09.068+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.067 seconds
+[2023-06-03T16:49:01.904+0200] {processor.py:156} INFO - Started process (PID=73495) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:49:01.941+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:49:01.943+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:49:01.942+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:49:01.946+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:49:01.963+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.063 seconds
+[2023-06-03T16:49:55.279+0200] {processor.py:156} INFO - Started process (PID=75046) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:49:55.316+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:49:55.317+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:49:55.317+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:49:55.320+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:49:55.339+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.064 seconds
+[2023-06-03T16:50:52.216+0200] {processor.py:156} INFO - Started process (PID=75133) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:50:52.253+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:50:52.255+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:50:52.255+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:50:52.258+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:50:52.280+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.071 seconds
+[2023-06-03T16:51:50.732+0200] {processor.py:156} INFO - Started process (PID=75213) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:51:50.768+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:51:50.769+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:51:50.769+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:51:50.772+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:51:50.789+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.062 seconds
+[2023-06-03T16:52:44.787+0200] {processor.py:156} INFO - Started process (PID=75281) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:52:44.791+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:52:44.793+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:52:44.792+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:52:44.795+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:52:44.809+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.028 seconds
+[2023-06-03T16:53:43.749+0200] {processor.py:156} INFO - Started process (PID=75358) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:53:43.751+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:53:43.752+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:53:43.752+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:53:43.755+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:53:43.773+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.029 seconds
+[2023-06-03T16:54:44.187+0200] {processor.py:156} INFO - Started process (PID=75440) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:54:44.224+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:54:44.226+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:54:44.226+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:54:44.229+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:54:44.252+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.070 seconds
+[2023-06-03T16:55:41.860+0200] {processor.py:156} INFO - Started process (PID=76912) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:55:41.897+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:55:41.899+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:55:41.898+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:55:41.902+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:55:41.924+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.068 seconds
+[2023-06-03T16:56:37.042+0200] {processor.py:156} INFO - Started process (PID=78359) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:56:37.046+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:56:37.048+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:56:37.047+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:56:37.050+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:56:37.073+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.035 seconds
+[2023-06-03T16:57:36.714+0200] {processor.py:156} INFO - Started process (PID=79766) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:57:36.717+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:57:36.719+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:57:36.718+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:57:36.723+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:57:36.743+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.034 seconds
+[2023-06-03T16:58:32.532+0200] {processor.py:156} INFO - Started process (PID=81235) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:58:32.569+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:58:32.571+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:58:32.570+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:58:32.572+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:58:32.593+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.068 seconds
+[2023-06-03T16:59:33.343+0200] {processor.py:156} INFO - Started process (PID=82006) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:59:33.346+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T16:59:33.347+0200] {logging_mixin.py:149} INFO - [2023-06-03T16:59:33.346+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:59:33.349+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T16:59:33.364+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.025 seconds
+[2023-06-03T17:00:31.433+0200] {processor.py:156} INFO - Started process (PID=83934) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:00:31.471+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:00:31.472+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:00:31.472+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:00:31.475+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:00:31.493+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.067 seconds
+[2023-06-03T17:01:30.430+0200] {processor.py:156} INFO - Started process (PID=84117) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:01:30.431+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:01:30.432+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:01:30.432+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:01:30.434+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:01:30.445+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.018 seconds
+[2023-06-03T17:02:34.912+0200] {processor.py:156} INFO - Started process (PID=86919) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:02:34.915+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:02:34.916+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:02:34.916+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:02:34.919+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:02:34.939+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.032 seconds
+[2023-06-03T17:03:33.399+0200] {processor.py:156} INFO - Started process (PID=87864) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:03:33.437+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:03:33.438+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:03:33.438+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:03:33.441+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:03:33.458+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.063 seconds
+[2023-06-03T17:04:29.846+0200] {processor.py:156} INFO - Started process (PID=89072) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:04:29.882+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:04:29.884+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:04:29.883+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:04:29.886+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:04:29.906+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.064 seconds
+[2023-06-03T17:05:28.949+0200] {processor.py:156} INFO - Started process (PID=89130) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:05:28.985+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:05:28.986+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:05:28.986+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:05:28.989+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:05:29.008+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.064 seconds
+[2023-06-03T17:06:28.968+0200] {processor.py:156} INFO - Started process (PID=90583) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:06:29.006+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:06:29.007+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:06:29.007+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:06:29.009+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:06:29.020+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.057 seconds
+[2023-06-03T17:07:25.726+0200] {processor.py:156} INFO - Started process (PID=92066) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:07:25.763+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:07:25.764+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:07:25.764+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:07:25.767+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:07:25.787+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.065 seconds
+[2023-06-03T17:08:19.728+0200] {processor.py:156} INFO - Started process (PID=93626) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:08:19.731+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:08:19.732+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:08:19.732+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:08:19.736+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:08:19.758+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.034 seconds
+[2023-06-03T17:09:10.411+0200] {processor.py:156} INFO - Started process (PID=94656) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:09:10.448+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:09:10.449+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:09:10.449+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:09:10.452+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:09:10.469+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.065 seconds
+[2023-06-03T17:10:06.373+0200] {processor.py:156} INFO - Started process (PID=95880) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:10:06.410+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:10:06.411+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:10:06.411+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:10:06.416+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:10:06.438+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.069 seconds
+[2023-06-03T17:10:58.135+0200] {processor.py:156} INFO - Started process (PID=98023) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:10:58.172+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:10:58.174+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:10:58.173+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:10:58.177+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:10:58.197+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.067 seconds
+[2023-06-03T17:11:51.076+0200] {processor.py:156} INFO - Started process (PID=99404) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:11:51.114+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:11:51.115+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:11:51.115+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:11:51.117+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:11:51.134+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.063 seconds
+[2023-06-03T17:12:48.888+0200] {processor.py:156} INFO - Started process (PID=100770) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:12:48.924+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:12:48.926+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:12:48.925+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:12:48.928+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:12:48.949+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.066 seconds
+[2023-06-03T17:13:44.059+0200] {processor.py:156} INFO - Started process (PID=100850) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:13:44.095+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:13:44.096+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:13:44.096+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:13:44.098+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:13:44.114+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.059 seconds
+[2023-06-03T17:14:37.361+0200] {processor.py:156} INFO - Started process (PID=102330) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:14:37.398+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-03T17:14:37.399+0200] {logging_mixin.py:149} INFO - [2023-06-03T17:14:37.399+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:14:37.402+0200] {processor.py:811} WARNING - No viable dags retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-03T17:14:37.421+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.064 seconds

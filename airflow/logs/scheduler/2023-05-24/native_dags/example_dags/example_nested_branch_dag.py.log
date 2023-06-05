@@ -1,0 +1,67 @@
+[2023-05-24T18:45:26.982+0200] {processor.py:156} INFO - Started process (PID=7907) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T18:45:26.984+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-05-24T18:45:26.986+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:26.985+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T18:45:27.002+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T18:45:27.231+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:27.230+0200] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_nested_branch_dag
+[2023-05-24T18:45:27.270+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:27.270+0200] {manager.py:504} INFO - Created Permission View: can read on DAG:example_nested_branch_dag
+[2023-05-24T18:45:27.287+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:27.287+0200] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_nested_branch_dag
+[2023-05-24T18:45:27.288+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:27.288+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:45:27.309+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:27.309+0200] {dag.py:2747} INFO - Creating ORM DAG for example_nested_branch_dag
+[2023-05-24T18:45:27.325+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:45:27.325+0200] {dag.py:3486} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T18:45:27.560+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.583 seconds
+[2023-05-24T18:46:26.722+0200] {processor.py:156} INFO - Started process (PID=7954) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T18:46:26.725+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-05-24T18:46:26.728+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:26.727+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T18:46:26.752+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T18:46:26.799+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:26.798+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:46:26.890+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:46:26.889+0200] {dag.py:3486} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T18:46:27.003+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.288 seconds
+[2023-05-24T18:47:17.549+0200] {processor.py:156} INFO - Started process (PID=7999) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T18:47:17.586+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-05-24T18:47:17.587+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:17.587+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T18:47:17.610+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T18:47:17.657+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:17.657+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T18:47:17.891+0200] {logging_mixin.py:149} INFO - [2023-05-24T18:47:17.891+0200] {dag.py:3486} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T18:47:17.975+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.432 seconds
+[2023-05-24T21:47:08.151+0200] {processor.py:156} INFO - Started process (PID=8069) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:47:08.187+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-05-24T21:47:08.188+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:08.187+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:47:08.265+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:47:08.275+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:08.275+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:47:08.288+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:08.288+0200] {dag.py:3486} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T21:47:08.306+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.156 seconds
+[2023-05-24T21:47:55.780+0200] {processor.py:156} INFO - Started process (PID=8118) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:47:55.782+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-05-24T21:47:55.783+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:55.783+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:47:55.794+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:47:55.818+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:55.818+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:47:55.847+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:47:55.846+0200] {dag.py:3486} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T21:47:55.882+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.104 seconds
+[2023-05-24T21:48:43.027+0200] {processor.py:156} INFO - Started process (PID=8163) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:48:43.029+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-05-24T21:48:43.030+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:43.030+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:48:43.043+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:48:43.071+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:43.071+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:48:43.101+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:48:43.101+0200] {dag.py:3486} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T21:48:43.145+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.123 seconds
+[2023-05-24T21:49:34.841+0200] {processor.py:156} INFO - Started process (PID=8213) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:49:34.843+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-05-24T21:49:34.844+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:34.844+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:49:34.851+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:49:34.872+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:34.872+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:49:34.891+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:49:34.891+0200] {dag.py:3486} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T21:49:34.932+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.093 seconds
+[2023-05-24T21:50:19.412+0200] {processor.py:156} INFO - Started process (PID=8259) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:50:19.414+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-05-24T21:50:19.415+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:19.414+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:50:19.423+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:50:19.440+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:19.440+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:50:19.467+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:50:19.467+0200] {dag.py:3486} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T21:50:19.490+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.081 seconds
+[2023-05-24T21:51:08.230+0200] {processor.py:156} INFO - Started process (PID=8307) to work on /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:51:08.273+0200] {processor.py:799} INFO - Processing file /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-05-24T21:51:08.274+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:51:08.274+0200] {dagbag.py:541} INFO - Filling up the DagBag from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:51:08.281+0200] {processor.py:809} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-05-24T21:51:08.297+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:51:08.296+0200] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-24T21:51:08.316+0200] {logging_mixin.py:149} INFO - [2023-05-24T21:51:08.316+0200] {dag.py:3486} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-24T21:51:08.337+0200] {processor.py:178} INFO - Processing /home/choco/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.109 seconds
