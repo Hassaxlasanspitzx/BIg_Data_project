@@ -9,8 +9,9 @@ youtube = build("youtube", "v3", developerKey=api_key)
 # Perform the API request
 request = youtube.search().list(
     part="snippet",
-    q="product",  # Replace with your specific query
+    q="cosmetics product review",  # Replace "product" with "cosmetics product review"
     type="video",
+    order="viewCount",  # Add this line to sort the results by view count, i.e., popularity
     maxResults=5,
     regionCode="US"
 )
@@ -25,7 +26,7 @@ for item in response["items"]:
 
 # Specify the output file path
 directory_path = "/home/choco/datalake/raw/youtube/"  # Replace with the actual directory path
-file_name = "results.csv"
+file_name = "cosmetics_results.csv"  # Change the file name to "cosmetics_results.csv"
 
 # Ensure the directory exists
 if not os.path.exists(directory_path):

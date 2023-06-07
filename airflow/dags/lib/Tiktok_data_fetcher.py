@@ -7,10 +7,10 @@ def fetch_tiktok_trends():
 
     # Fetch trending videos
     trending_videos = api.trending()
-
+    print(dir(trending_videos))
     # Extract relevant information from each video
     trends_data = []
-    for video in trending_videos:
+    for video in trending_videos.videos:
         video_data = {
             "id": video['id'],
             "author": video['author']['uniqueId'],

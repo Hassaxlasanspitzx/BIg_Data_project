@@ -23,30 +23,23 @@ def visualize_related_topics_from_google(keyword):
 
     return related_topic
 
+def store_google_data(trends):
+        current_day = date.today().strftime("%Y%m%d")
+        TARGET_PATH = "/home/choco/datalake/raw/google_trends/" + current_day + "/"
+        if not os.path.exists(TARGET_PATH):
+            os.makedirs(TARGET_PATH)
+        print("Writing here: ", TARGET_PATH)
 
-def  store_google_data(trends):
-    current_day = date.today().strftime("%Y%m%d")
-    TARGET_PATH = "/home/choco/datalake/raw/google_trends/" + current_day + "/"
-    if not os.path.exists(TARGET_PATH):
-        os.makedirs(TARGET_PATH)
-    print("Writing here: ", TARGET_PATH)
+        # Extract the data from the dictionary
+        data_top = trends['Cosmetics']['top']
+        data_rising = trends['Cosmetics']['rising']
 
-    # Extract the data from the dictionary
-    data = trends['Cosmetics']
+        # Save the DataFrame to CSV file
+        file_path_top = TARGET_PATH + "google-data-top.csv"
+        data_top.to_csv(file_path_top)
 
-    # Specify the field names for the CSV file
-    field_names = data[0].keys()
-
-    # Create the CSV file
-    file_path = TARGET_PATH + "google-data.csv"
-    with open(file_path, "w+", newline="") as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=field_names)
-
-        # Write the header
-        writer.writeheader()
-
-        # Write the data rows
-        writer.writerows(data)
+        file_path_rising = TARGET_PATH + "google-data-rising.csv"
+        data_rising.to_csv(file_path_rising)
 
     # Call the function
 keyword = 'Cosmetics'
