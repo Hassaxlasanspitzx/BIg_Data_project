@@ -21,17 +21,12 @@ def visualize_related_topics_from_google(keyword):
     # Get related topics
     related_topic = pytrend.related_topics()
 
-    # Display the data
-    for df in related_topic.values():
-        # Display the dataframe
-        print(df)
     return related_topic
-
 
 
 def  store_google_data(trends):
     current_day = date.today().strftime("%Y%m%d")
-    TARGET_PATH = "/home/datalake/raw/google_trends/" + current_day + "/"
+    TARGET_PATH = "/home/choco/datalake/raw/google_trends/" + current_day + "/"
     if not os.path.exists(TARGET_PATH):
         os.makedirs(TARGET_PATH)
     print("Writing here: ", TARGET_PATH)

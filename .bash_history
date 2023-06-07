@@ -548,3 +548,501 @@ git commit
 git config --global user.email "hassanaboo@hotmail.fr"
 git commit
 sudo git commit
+cd .git
+ls
+cd commit_editmsg
+cd ..
+git remote add origin https://github.com/Hassaxlasanspitzx/BIg_Data_project.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/Hassaxlasanspitzx/BIg_Data_project.git
+git branch -M main
+git push -u origin main
+git push -u origin master
+gir remot-v
+git  remote -v
+git push origin master
+git push -u origin main
+cd .git
+git push -u origin main
+git  remote -v
+git push origin master
+git push -f origin master
+ls
+cd ..
+rm -rf .git
+git init
+cd airflow
+git add .
+cd ..
+ls
+cd .git
+ls
+cd ..
+cd airflow
+git commit -m "test"
+omit --global
+--global
+cd ..
+git status
+git add .bash_history
+cd .git
+ls
+cd HEAD
+cd ..
+got status
+git status
+git add .bash_logout
+git add .bashrc
+git add .cache/
+git add .gitconfig
+git add .motd_shown
+git add .profile
+git add .pycharm_helpers
+git add .virtualenvs/
+cd .git
+ls
+cd ..
+git remote add origin https://github.com/Hassaxlasanspitzx/BIg_Data_project.git
+git branch -M main
+git push -u origin main
+git push -u origin master
+git checkout -B main
+git push -u origin main
+git merge master
+git merge main
+git checkout main
+cd .git
+ls
+cd branches
+ls
+cd ..
+git branch -main
+cd airflow
+git remote add origin https://github.com/Hassaxlasanspitzx/BIg_Data_project.git
+git add -A
+git commit -m "first commit"
+git config --global user.name "Hassaxlasanspitzx
+
+
+git config --global user.name "Hassaxlasanspitzx"
+
+
+
+
+
+git config --global user.name "Hassaxlasanspitax"
+git commit -m "first commit"
+git push
+cd ..
+git remote -v
+git push -u origin main
+git push --set-upstream origin main
+git push https://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@github.com/my_github_account/my_repo.git
+git push https://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@github.com/Hassaxlasanspitax/my_repo.git
+git push https://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@github.com/Hassaxlasanspitax/BIg_Gata_project.git
+git push https://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@github.com/Hassaxlasanspitax/BIg_Data_project.git
+git push -u origin main
+cd .git
+git push https://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@github.com/Hassaxlasanspitax/BIg_Data_project.git
+git push -u origin main
+git push https://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@github.com/Hassaxlasanspitax/BIg_Data_project.git
+git push https://github.com/Hassaxlasanspitzx/BIg_Data_project
+git push -u origin main
+cd ..
+brew install gh
+sudo brew install gh
+sudo apt install gh
+gh auth login
+
+gh auth login
+git push -u origin main
+git remot -v
+git remote -v
+git remote set-url origin "https://github-username@github.com/github-username/github-repository-name.git
+
+git remote set-url origin "https://Hassaxlasanspitax@github.com/Hassaxlasanspitax/BIg_Data_project.git/
+
+
+
+
+
+
+
+git remote set-url origin "https://Hassaxlasanspitax@github.com/Hassaxlasanspitax/BIg_Data_project.git/
+gh auth login
+git remote -v
+git push -u origin main
+git remote set-url origin "https://Hassaxlasanspitzx@github.com/BIg_Data_project.git/
+
+
+
+
+
+
+
+
+
+
+
+
+git remote
+git remote set-url origin "https://Hassaxlasanspitzx@github.com/BIg_Data_project.git/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git remote set-url origin "https://Hassaxlasanspitzx@github.com/BIg_Data_project.git/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git push -u origin main
+git remote set-url origin "https://Hassaxlasanspitzx@github.com/BIg_Data_project.git/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git remote set-url origin "https://Hassaxlasanspitzx@github.com/BIg_Data_project.git/
+
+sudo git remote set-url origin "https://Hassaxlasanspitzx@github.com/BIg_Data_project.git/
+
+
+git remote set-url origin "https://Hassaxlasanspitzx@github.com/BIg_Data_project.git/"
+git push -u origin main
+git remote set-url origin "https://Hassaxlasanspitzx@github.com/Hassaxlasanspitzx/BIg_Data_project.git/"
+git push -u origin main
+remote: Permission to Hassaxlasanspitzx/BIg_Data_project.git denied to Hassaxlasanspitzx.
+fatal: unable to access 'https://github.com/Hassaxlasanspitzx/BIg_Data_project.git/': The requested URL returned error: 403
+ls ~/.ssh
+ssh -heygen -t rsa -b 4096 -C "hassanaboo@hotmail.fr"
+ls ~/.ssh
+ssh -heygen -t rsa -b 4096 -C "hassanaboo@hotmail.fr"
+ssh-keygen -t rsa -b 4096 -C "hassanaboo@hotmail.fr"
+sudo apt install xclip
+xclip -sel clip < ~/.ssh/id_rsa.pub
+cd .ssh
+ls
+cd y
+ls
+nano y
+ls
+nano y.pub
+cat y.pub
+ssh -T git@github.com
+ssh-add -l
+nano y.pub1806
+sudo pyhton3 data_fetcher.py
+sudo python3 data_fetcher.py
+ls
+cd dags
+cd lib
+sudo python3 data_fetcher.py
+cd datalake
+ls
+cd raw
+cd youtube
+ls
+sudo chmod +w /home/choco/datalake/raw/youtube/
+ls
+cd ..
+ls
+cd choco
+ls
+ls datalake
+ls
+cd datalake
+ms
+ls
+cd raw
+ls
+cd googl_trends
+cd google_trends
+ls
+cd ..
+ls
+rm -r datalake
+ls
+rm -r datalake
+sudo rm -r datalake
+ls
+cd choco
+ls
+cd datalake
+ls
+sudo rm -r formmated
+mkdir formatted
+sudo mkdir formatted
+cd raw
+cd google_trends
+ls
+cd ..
+cd airflow
+ls
+cd dags
+ls
+cd lib
+lls
+ls
+ls -l
+sudo python3 data_fetcher.py
+cd\
+ls
+cd datalake
+ls
+cd raw
+cd google_trends
+ls
+cd ..
+ls
+cd formatted
+ls
+mkdir google_trends
+sudo mkdir google_trends
+sudo mkdir sephora
+cd ..
+cd raw
+ls
+cd ..
+ls usage
+cd usage
+cd ..
+cd datalake
+ls
+cd usages
+ls
+cd ..
+pip install google-api-python-client
+cd ..
+l
+ls
+cd choco
+cd airflow/dags/lib
+ls
+cd home
+ls
+cd datalake
+ls
+cd raw
+ls
+cd google_trends
+ls
+cd ..
+ls
+cd ..
+cd datalake
+ls
+cd raw
+ls
+sudo rm - sephora
+sudo rm -r sephora
+ls
+sudo mkdir youtube
+ls
+cd youtube
+ls
+cd\
+cd airflow/dags
+ls
+cd ls
+cd lib
+sudo python3 Youtube_data_fetcher.py
+pip install googleapiclient
+pip install google-api-python-client
+pip install googleapiclient
+sudo python3 Youtube_data_fetcher.py
+pip list
+sudo python3 Youtube_data_fetcher.py
+pip show google-api-python-client
+sudo python3 Youtube_data_fetcher.py
+pip install googleapiclient
+pip list
+pip show google-api-python-client
+sudo python3 Youtube_data_fetcher.py
+pip show csv
+sudo python3 Youtube_data_fetcher.py
+ls
+cd\
+ls datalake
+ls
+cd raw/yotube
+cd raw/youtube
+lls
+ls
+cd datalake
+ls
+cd raw
+ls
+cd youtube
+ls
+ls -l
+chmod u+w
+chmod +w /home/choco/datalake/raw/youtube/
+sudo chmod +w /home/choco/datalake/raw/youtube/
+sudo python3 Youtube_data_fetcher.py
+cd\
+cd airflow
+ls
+cd dags
+ls
+cd lib
+ls
+sudo python3 Youtube_data_fetcher.py
+pip --version
+python3.10 Youtube_data_fetcher.py
+sudo chmod +w /home/choco/datalake/raw/youtube/
+python3.10 Youtube_data_fetcher.py
+ls -l
+sudo chmod +w /home/choco/datalake/raw/youtube/
+python3.10 Youtube_data_fetcher.py
+sudo python3.10 Youtube_data_fetcher.py
+cd\
+source venv/bin/activate
+cd ..
+source venv/bin/activate
+ls
+cd ..
+ls
+source venv/bin/activate
+cs bin
+cd bin
+ls
+cd ..
+cd home
+cd choco
+sudo python3.10 Youtube_data_fetcher.py
+python3.10 Youtube_data_fetcher.py
+l
+ls
+pyhton -m site
+python -m site
+python3 -m site
+cd .local
+cd lib
+cd python3.10/site-packages
+ls
+sudo python3.10 Youtube_data_fetcher.py
+sudo python3.10 airflow/Youtube_data_fetcher.py
+sudo python3 Youtube_data_fetcher.py
+cd\
+cd .venv_pycharm
+cd .virtualenvs
+ls
+cd myenv
+ls
+cd bin
+ls
+cd pyhton3.10
+cd python3.10
+pip install google-api-python-client
+cd ..
+source bin/activate
+pip list
+pip install --upgrade google-api-python-client
+python path/to/your/script.py
+cd \
+cd airflow
+cd dags
+ls
+cd lib
+ls
+sudo python3 Youtube_data_fetcher.py
+c\
+cd\
+cd .virualenvs
+cd .virtualenvs
+ls
+cd myenv
+ls
+cd bin
+ls
+pip list
+cd ..
+pip list
+cd ..
+ls
+cd airflow
+ls
+cd venv_pycharm
+ls
+cd bin 
+ls
+cd python
+ls
+cd ..
+sudo rm -r pyhton
+ls
+cd python
+ls
+cd bin
+ls
+cd ..
+pip install --upgrade google-api-python-client
+source bin/activate
+pip list
+cd\
+sudo python3 Youtube_data_fetcher.py
+sudo python3 airflow/dags/lib/Youtube_data_fetcher.py
+sudo python airflow/dags/lib/Youtube_data_fetcher.py
+python3 airflow/dags/lib/Youtube_data_fetcher.py
+sudo python airflow/dags/lib/Youtube_data_fetcher.py
+sudo python3 airflow/dags/lib/Youtube_data_fetcher.py
+cd .virtualenvs
+ls
+cd airflow
+ls
+cd venv_pycharm
+ls
+cd bin
+ls
+cd python
+ls
+cd bin
+ls
+pip list
+ls
+source bin/activate
+cd ..
+source bin/activate
+ls
+cd\
+sudo python3 airflow/dags/lib/Youtube_data_fetcher.py

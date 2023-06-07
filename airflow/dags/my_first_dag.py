@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 
-from lib.data_fetcher import fetch_data_from_twitter
+from lib.google_data_fetcher import fetch_data_from_twitter
 
 with DAG(
        'my_first_dag',
