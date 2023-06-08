@@ -1304,3 +1304,21 @@ cat google-data-rising.csv
 cd\
 pip3 install pandas
 pip3 install pyarrow
+ls
+cd datalake
+sudo mv /home/choco/airflow
+cd ..
+sudo mv /home/choco/datalake home/choco/airflow
+sudo mv /home/choco/datalake home/choco/airflow/
+mls
+ls
+cd ..
+ls
+cd choco
+sudo mv choco/datalake choco/airflow/
+sudo mv home/choco/datalake choco/airflow/
+sudo mv /home/choco/datalake choco/airflow/
+sudo mv /home/choco/datalake /home/choco/airflow/
+ls
+cd airflow
+ls
