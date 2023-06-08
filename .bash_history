@@ -1046,3 +1046,261 @@ source bin/activate
 ls
 cd\
 sudo python3 airflow/dags/lib/Youtube_data_fetcher.py
+sudo python3 youtube_data_fetcher.py
+cd dags
+cd lib
+sudo python3 youtube_data_fetcher.py
+sudo python3 Youtube_data_fetcher.py
+pip install google-api-python-client
+sudo python3 Youtube_data_fetcher.py
+import googleapiclient
+pip install googleapiclient
+sudo python3 Youtube_data_fetcher.py
+python3 Tiktok.py
+python3 youtube.py
+pip install TikTokApi
+python -m playwright install
+python3 -m playwright install
+pip install libsoup-2.4.so.1
+sudo apt install -y libsoup2.4-dev libepoxy-dev libwayland-client0 libwayland-server0 libwayland-egl1 libxkbcommon0 libvpx7 libevent-2.1-7 libopus0 libcairo2 libharfbuzz0b libxslt1.1 liblcms2-2 libwoff2dec1.0.2 libgstreamer-plugins-base1.0-0 libgstreamer1.0-0 libopenjp2-7 libwebpdemux2 libgbm1 libflite1 libgles2 libx
+sudo apt-get install -y libsoup2.4-dev libepoxy-dev libwayland-client0 libwayland-server0 libwayland-egl1 libxkbcommon0 libvpx7 libevent-2.1-7 libopus0 libcairo2 libharfbuzz0b libxslt1.1 liblcms2-2 libgstreamer-plugins-base1.0-0 libgstreamer1.0-0 libopenjp2-7 libwebpdemux2 libgbm1 libflite1 libgles2 libx264-155
+sudo apt-get install -y libx264-dev
+sudo apt-get install -y libsoup2.4-dev libepoxy-dev libwayland-client0 libwayland-server0 libwayland-egl1 libxkbcommon0 libvpx7 libevent-2.1-7 libopus0 libcairo2 libharfbuzz0b libxslt1.1 liblcms2-2 libgstreamer-plugins-base1.0-0 libgstreamer1.0-0 libopenjp2-7 libwebpdemux2 libgbm1 libflite1 libgles2 libx264-155
+cc sudo apt-get install -y libsoup2.4-dev libepoxy-dev libwayland-client0 libwayland-server0 libwayland-egl1 libxkbcommon0 libvpx7 libevent-2.1-7 libopus0 libcairo2 libharfbuzz0b libxslt1.1 liblcms2-2 libgstreamer-plugins-base1.0-0 libgstreamer1.0-0 libopenjp2-7 libwebpdemux2 libgbm1 libflite1 libgles2 libx264-155
+udo apt-get install -y libsoup2.4-dev libepoxy-dev libwayland-client0 libwayland-server0 libwayland-egl1 libxkbcommon0 libvpx7 libevent-2.1-7 libopus0 libcairo2 libharfbuzz0b libxslt1.1 liblcms2-2 libgstreamer-plugins-base1.0-0 libgstreamer1.0-0 libopenjp2-7 libwebpdemux2 libgbm1 libflite1 libgles2
+sudo apt-get install -y libgtk-3-0 libgdk-3-0 libpangocairo-1.0-0 libpango-1.0-0 libcairo-gobject2 libgdk-pixbuf2.0-0 libwoff2dec1.0.2 libharfbuzz-icu0 libgstgl-1.0-0 libgstcodecparsers-1.0-0 libenchant-2-2 libsecret-1-0 libhyphen0 libxcomposite1 libxdamage1 libmanette-0.2-0
+sudo apt update
+sudo apt install libgdk3.0
+ls
+cd datalake
+ls
+cd raw
+ls
+cd youtube
+ls
+sudo python3 youtube.py
+cd\
+cd airflow
+cd dags/lib
+ls
+cat testgoogle.py
+sudo python3 testgoogle.py
+ls
+sudo rm -r choco
+ls
+cat test
+oyhton3 test
+pyhton3 test
+python3 test
+sudo rm -r test
+ls
+cd home
+ls
+sudo rm -r home
+cd ..
+sudo rm -r home
+ls
+python3 testgooge.py
+ls
+python3 testgoogle.py
+python3 youtube.py
+sudo python3 youtube.py
+ls
+sudo apt install libmanette-0.2.so.0
+python3 -m playwright install
+sudo python3 -m playwright install
+pip install TikTokApi
+Install libmanette xbps package:
+sudo apt install libmanette xbps package
+apk update
+apk add --upgrade libmanette
+apt add --upgrade libmanette
+.git
+cc\
+cd\
+.git
+cd .git
+ls
+cd branches
+ls
+cd ..
+cd .
+cd ..
+cd airflow/dags/lib
+sudo  python3 youtube_data_fetcher.py
+pip install --upgrade google-api-python-client
+cd\
+ls
+cd datalake
+cd\
+ls
+cd airflow
+cd\
+mv ~/Downloads/google-api-python-client-master.zip ~/Downloads/Unidecode-master.zip ~/airflow
+cd ..
+cd.
+cd ..
+ls
+cd ..
+ls
+cd home
+cd choco
+ls
+cd airflow
+Téléchargements
+D:\Users\HASSAN LE BIGGYBOSS\Downloads\tel
+D:\Users\"HASSAN LE BIGGYBOSS"\Downloads\tel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+D:\Users\'HASSAN LE BIGGYBOSS'\Downloads\tel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ls
+cd dags
+ls
+cd lib
+ls
+sudo python3 youtube_data_fetcher.py
+pip list
+$
+pip uninstall google-api-python-client
+pip install google-api-python-client
+sudo python3 youtube_data_fetcher.py
+pip show google-api-python-client
+pip list
+pip uninstall google-api-python-client
+sudo pip3 install google-api-python-client
+sudo python3 youtube_data_fetcher.py
+cd\
+cd datalake/raw/youtube
+ls
+cat results.csv
+cd\
+cd airflow/dags/lib
+ls
+sudo python3 youtube_data_fetcher.py
+cdcd datalake/raw/youtube
+cd datalake/raw/youtube
+cd\
+cd datacd\lake/raw/youtube
+cd datalake/raw/youtube
+cat results.csv
+nano results.csv
+cd\
+cd airflow/dags/lib
+ls
+sudo python3 youtube_data_fetcher.py
+cd\
+cd datalake/raw/youtube
+cat results.csv
+cd\
+cd airflow/dags/lib
+cat youtube_data_fetcher.py 
+cd\
+cd datalake/raw/youtube
+ls
+cat cosmetics_results.csv 
+cd\
+cd datalake/raw/youtube
+cd ..
+ls
+cd google_trends/
+ls
+cd ..
+sudo apt-get install libgtk-3-0 libgdk-pixbuf2.0-0 libpangocairo-1.0-0 libcairo-gobject2 libwoff2dec1.0.2 libharfbuzz-icu0 libgstgl-1.0-0 libgstcodecparsers-1.0-0 libenchant2 libsecret-1-0 libhyphen0 libxcomposite1 libxdamage1
+cd google_trends/
+sudo apt-get install libgtk-3-0 libgdk-pixbuf2.0-0 libpangocairo-1.0-0 libcairo-gobject2 libwoff1 libharfbuzz-icu0 libgstreamer-gl1.0-0 libenchant-2-2 libsecret-1-0 libhyphen0 libxcomposite1 libxdamage1
+cd airflow/dags/lib
+sudo python3 Tiktok_data_fetcher.py
+pip list
+pip uninstall TikTokApi
+pip3 install TikTokApi
+sudo python3 Tiktok_data_fetcher.py
+pip show  File "/home/choco/airflow/dags/lib/Tiktok_data_fetcher.py", line 2, in <module>
+ModuleNotFoundError: No module named 'TikTokApi'
+pip show TiktokApi
+sudo pip3 install TiktokApi
+sudo python3 Tiktok_data_fetcher.py
+pip -m   playwright install
+pip install -m  playwright install
+playwright install
+sudo python3 Tiktok_data_fetcher.py
+sudo playwright install
+sudo python3 Tiktok_data_fetcher.py
+sudo apt-get update
+sudo apt-get install gstreamer1.0-plugins-bad libmanette-0.2-0
+sudo python3 Tiktok_data_fetcher.py
+cd\
+cd datalake/raw/youtube
+cd ..
+ls
+cd google_trends/
+ls
+cd 20230606/
+ls
+cd\
+ls
+cd airflow/dags/lib
+sudo python3 google_data_fetcher.py 
+cd\
+cd datalake/raw/google_trends
+ls
+cd 20230607
+ls
+cat google-data-top.csv
+cat google-data-rising.csv 
+cd\
+pip3 install pandas
+pip3 install pyarrow
