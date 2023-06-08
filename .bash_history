@@ -1322,3 +1322,35 @@ sudo mv /home/choco/datalake /home/choco/airflow/
 ls
 cd airflow
 ls
+cd airflow
+ls
+cd ..
+cd .git
+ls
+cd branches
+ls
+cd ..
+cd logs
+ls
+cd ..
+cd objects
+ls
+cd ..
+ls -a /path/to/project
+ls -a /choco/airflow
+git checkout main
+git checkout -b Hassan_branch
+cd datalake/raw
+ls
+cd google_trends/
+ls
+cd 20230608/
+ls
+cd google-data-top.csv
+cat google-data-top.csv 
+cd ..
+ls
+cat 20230608/
+cd 20230608/
+ls
+cat google-data-top.csv 

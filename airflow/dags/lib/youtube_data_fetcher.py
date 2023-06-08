@@ -6,13 +6,19 @@ from googleapiclient.discovery import build
 api_key = "AIzaSyBIV9xNTxLQaqsGLgmyUoTh_JP5AFshqi4"  # Replace with your actual API key
 youtube = build("youtube", "v3", developerKey=api_key)
 
+# Specify the start and end dates for the desired period
+start_date = "2023-01-01"
+end_date = "2023-06-30"
+
 # Perform the API request
 request = youtube.search().list(
     part="snippet",
-    q="cosmetics product review",  # Replace "product" with "cosmetics product review"
+    q="future of cosmetics",  # Replace "product" with "cosmetics product review"
     type="video",
     order="viewCount",  # Add this line to sort the results by view count, i.e., popularity
-    maxResults=5,
+    maxResults=10,
+    publishedAfter=start_date + "T00:00:00Z",  # Limit results to videos published after the start date
+    publishedBefore=end_date + "T23:59:59Z",  # Limit results to videos published before the end date
     regionCode="US"
 )
 response = request.execute()
