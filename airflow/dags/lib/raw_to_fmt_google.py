@@ -1,19 +1,25 @@
 import pandas as pd
+import os
 
-# Read the CSV file for top topics
-df_top = pd.read_csv('google-data-top.csv')
+# Specify the file path relative to the current script
+file_path_rising = '/home/choco/airflow/datalake/raw/google_trends/20230608/google-data-rising.csv'
 
-# Perform any data manipulation or analysis if needed
-# ...
+# Read the CSV file
+google_data_rising = pd.read_csv(file_path_rising)
 
-# Convert to Parquet format
-df_top.to_parquet('google-data-top.parquet', index=False)
+# Select the desired columns
+columns = ['value', 'formattedValue', 'link', 'topic_mid', 'topic_title']
+google_data_rising_formatted = google_data_rising[columns]
 
-# Read the CSV file for rising topics
-df_rising = pd.read_csv('google-data-rising.csv')
+# Specify the output directory path
+output_directory = '/home/choco/airflow/datalake/formatted/google_trends/'
+if not os.path.exists(output_directory):
+    os.makedirs(output_directory)
 
-# Perform any data manipulation or analysis if needed
-# ...
+# Specify the output file path within the directory
+output_file_google_rising = os.path.join(output_directory, 'formatted_google_data_rising.parquet')
 
-# Convert to Parquet format
-df_rising.to_parquet('google-data-rising.parquet', index=False)
+# Convert the dataframe to Parquet format
+google_data_rising_formatted.to_parquet(output_file_google_rising, index=False)
+
+print("Google data (rising) formatted and saved to:", output_file_google_rising)

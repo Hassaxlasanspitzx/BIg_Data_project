@@ -1354,3 +1354,486 @@ cat 20230608/
 cd 20230608/
 ls
 cat google-data-top.csv 
+cd datalke
+ls
+cd datalake/
+ls
+cd raw/
+ls
+cd youtube/
+ls
+cd ..
+ls
+cd ..
+ls raw
+ls
+cd raw
+ls
+cd \
+ls 
+cd airflow
+ls
+cd datalake
+ls
+cd raw
+ls
+cd \
+ls
+sudo rm -r datlake
+sudo rm -r datalake
+ls
+cd airflow
+ls
+cd da
+ls
+cd datalake/
+ls
+cd raw
+ls
+cd google_trends/
+ls
+cd ..
+cd formatted/
+ls
+cd google_trends/
+ls
+cd datalke
+ls
+cd datalake/
+ls
+cd raw
+cd ..
+ls
+cd ..
+ls
+cd d
+cd choco
+ls
+cd datal
+$cd datalake
+ls
+cd datalake
+ls
+cd raw
+ls
+cd google_trends/
+ls
+cd ..
+cd airflow
+ls
+cd datalake
+ls
+cd raw
+ls
+cd google_trends/
+ls
+cd ..
+cd airflow
+ls
+cd dags
+ls
+cd lib
+ls
+sudo python3 google_data_fetcher.py 
+cd ..
+ls
+cd ..
+ls
+rm -r datalake
+ms
+ls
+cd airflow
+ls
+cd datalake/
+ls
+cd raw
+ls
+cd google_trends/
+ls
+cd 20230608
+ls
+cat google-data-t
+cat google-data-top.csv 
+cd ..
+ls
+cd youtube/
+ls
+rm -r results.csv 
+ls
+cd cos
+cat cosmetics_results.csv 
+ls
+cat cosmetics_results.csv 
+ls
+ccat cosmetics_results.csv 
+cat cosmetics_results.csv 
+ls
+lq
+cd ..
+cd google_trends/
+ls
+cd 20230608
+ls
+cd ..
+ls
+cd ..
+ls
+cd youtube/
+ls
+cd ..
+cd formatted/
+ls
+rm -r sephora
+ls
+sudo rm -r sephora
+ls
+mkdir youtube
+ls
+sudo mkdir youtube
+ls
+cd
+cd /airflow/datalake/formatted
+ls
+cd /airflow/datalake/formatted
+cd airflow
+cd datalake
+ls
+cd formatted/
+ls
+cd youtube/
+ls
+cd ..
+cd raw
+ls
+cd youtube/
+ls
+cd ..
+ls
+cd ..
+ls
+cd formatted
+ls
+cd youtube/
+ls
+cd\
+ls
+cd airflow
+ls
+cd datalake
+ls
+cd ..
+ls
+cd dags
+cd lib
+ls
+sudo mv /airflow/dags/lib/raw_to_fmt_google.py /airflow/datalake/formatted/youtube
+sudo mv /airflow/dags/lib/formatted_youtube_data.parquet /airflow/datalake/formatted/youtube
+cd\
+ls
+cd datalake
+ls
+cd formatted
+ls
+cd youtube/
+ls
+cat formatted_youtube_data.parquet 
+cd ..
+ls
+sudo mkdir google_trends
+ls
+cd google_trends/
+ls
+cd\
+ls
+cd airflow/
+ls
+cd dags
+ls
+cd lib
+ls
+sudo python3 raw_to_fmt_google.py 
+sudo python3 google_data_fetcher.py 
+sudo python3 raw_to_fmt_google.py 
+c ..
+cd ..
+ls
+cd datalke
+ls
+cd da
+cd datalake/
+ls
+cd raw
+ls
+cd youtube/
+ls
+cat cosmetics_results.csv 
+cd ..
+ls
+cd google_trends/
+ls
+cd 20230608
+ls
+cd\
+/airflow/dags/lib$ sudo python3 raw_to_fmt_google.py
+cd /airflow/dags/lib
+cd choco//airflow/dags/lib
+ls
+cd /airflow/dags/lib
+sudo cd /airflow/dags/lib
+cd airflow
+cd dags
+cd lib
+ls
+sudo python3 raw_to_fmt_google.py 
+cd\
+pip install pyspark
+pip3 install pyspark
+cd airflow/datalake
+ls
+cd usages
+ls
+rm -r sephora
+sudo rm -r sephora
+ls
+sudo mkdir youtube
+ls
+cd google_trends/
+ls
+cd\
+pip3 install jupyter
+jupyter notebook
+cd airflow/datalake
+ls
+cd formatted/
+ls
+cd google_trends/
+ms
+ls
+cd\
+ls
+sudo rm -r datalake
+ls
+cd airflow
+ls
+cd datalake
+ls
+cd fom
+cd formatted/
+ls
+cd google_trends/
+ls
+cd\
+cd airflow/dags/lib
+ls
+sudo pyhton3 raw_to_fmt_google.py 
+sudo python3 raw_to_fmt_google.py 
+pip3 install pyarrow
+sudo python3 raw_to_fmt_google.py 
+pip list 
+pip3 install pyarrow
+pip3 install fastparquet
+sudo python3 raw_to_fmt_google.py 
+pip uninstall pyarrow
+pip3 install pyarrow
+sudo python3 raw_to_fmt_google.py 
+cd airflow/datalake
+ls
+cd formatted/
+ls
+cd google_trends/
+ls
+cat formatted_google_data_rising.parquet 
+cd airflow/datalake
+ls
+cd raw
+ls
+cd youtube/
+ls
+cd ..
+cd formatted/
+ls
+cd youtube/
+ls
+cat formatted_youtube_data.parquet 
+ls
+cat formatted_youtube_data.parquet 
+cd ..
+ls
+cat formatted_google_data_rising.parquet 
+ls
+cd airflow
+ls
+cd dags
+ls
+cd lib
+ls
+sudo rm -r ti
+sudo rm -r Tiktok_data_fetcher.py 
+sudo rm -r testgoogle.py 
+ls
+sudo python3 raw_to_fmt_google.py 
+import pyarrow
+sudo import pyarrow
+pip install --upgrade pyarrow fastparquet
+sudo python3 raw_to_fmt_google.py 
+import pyarrow
+pip show pyarrow
+pip show fastparquet
+sudo python3 raw_to_fmt_google.py 
+pip3 install pyarrow
+sudo python3 raw_to_fmt_google.py 
+pip show pyarrow
+sudo python3 raw_to_fmt_google.py 
+pip3 uninstall pyarrow
+pip uninstall pyarrow
+pip3 uninstall fastparquet
+ls
+pip install pyarrow
+pip3 uninstall fastparquet
+sudo pip3 install fastparquet
+sudo pip3 install pyarrow
+sudo python3 raw_to_fmt_google.py 
+sudo python3 raw_to_fmt_youtube.py 
+jupyter notebook
+cd\
+jupyter notebook
+ls
+cd datalake/airflow
+ls
+cd airflow/datalke$ls
+cd airflow/datalke$
+cd airflow/datalke
+cd airflow/datalake
+ls
+cd formatted/
+ls
+cd google_trends/
+ls
+cd ..
+ls youtube/
+cd youtube/
+ls
+cd\
+ls
+cd airflow
+ls
+cd datalake
+ls
+cd dags
+cd\
+ms
+ls
+cd airflow
+ls
+cd dags
+ls
+cd lib
+ls
+sudo pyhton3 Combine.py 
+sudo python3 Combine.py 
+sudo python3 google_data_fetcher.py 
+cd ..
+cd datalake
+ls
+cd formatted
+ls
+cd y
+cd youtube/
+ls
+cat formatted_youtube_data.parquet 
+cd\
+cd airflow/dags/lib
+sudo python3 raw_to_fmt_youtube.py 
+which java
+cd\
+readlink -f $(which java)
+readlink -f $(which java) | sed "s:bin/.*$::"
+update-alternatives --list java
+sudo update-alternatives --list java
+sudo readlink -f $(which java) | sed "s:bin/.*$::"
+sudo python3 raw_to_fmt_youtube.py
+sudo update-alternatives --list java
+cd ..
+ls
+cd ..
+ls
+cd bin
+ls
+cd ..
+lq
+ls
+cd home
+java -version
+whereis java
+export JAVA_HOME=/usr/share/java
+sudo export JAVA_HOME=/usr/share/java
+sudo -E bash -c 'echo "export JAVA_HOME=/usr/share/java" >> /etc/environment'
+sudo export JAVA_HOME=/usr/share/java
+cd choco
+sudo export JAVA_HOME=/usr/share/java
+java -version
+sudo java -version
+sudo /usr/share/java/bin/java -version
+sudo apt-get update
+sudo apt-get install openjdk-11-jdk
+update-alternatives --list java
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+sudo export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+source ~/.bashrc
+sudo source ~/.bashrc
+cd airflow/dags/lib 
+ls
+sudo python3 Combine.py 
+pip unistall pyspark
+pip uninstall pyspark
+pip3 install pyspark
+sudo python3 Combine.py 
+sudo pip3 install pyspark
+sudo python3 Combine.py 
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+java -version
+source ~/.bashrc
+export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+sudo python3 Combine.py 
+airflow standalone
+cd\
+cd airflow_venv
+source bin/activate
+export PATH=/home/[USER]/.local/bin/:$PATH
+airflow standalone
+cd airflow_venv
+source bin/activate
+export PATH=/home/[USER]/.local/bin/:$PATH
+airflow standalone
+cd airflow
+ls
+cd dags
+ls
+sudo python3 Projet_DAG.py 
+sudo pip3 install airflow
+sudo pip3 install apache-airflow
+sudo python3 Projet_DAG.py 
+aiflow standalone
+airflow standalone
+cd ..
+ls
+cd dags
+cd lib
+ls
+sudo python3 test.py 
+cd ..
+ls
+cd lib
+ls
+sudo rm -r test.py
+ls
+airflow standalone
+sudo -i
+ls
+cd
+sudo rm -r dtalake
+s
+sudo rm -r datalake
+ls
+sudo airflow standalone
+cd dags

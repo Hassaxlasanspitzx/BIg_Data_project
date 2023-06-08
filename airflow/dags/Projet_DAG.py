@@ -3,8 +3,8 @@ from datetime import datetime, timedelta
 
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-
-from lib.google_data_fetcher import fetch_data_from_twitter
+from lib.google_data_fetcher import fetch_data_from_google
+from lib.youtube_data_fetcher import fetch_data_from_youtube
 
 with DAG(
        'DAG',
@@ -14,16 +14,16 @@ with DAG(
            'email_on_failure': False,
            'email_on_retry': False,
            'retries': 1,
-           'retry_delay': timedelta(minutes=5),
+           'retry_delay': timedelta(minutes=1),
        },
-       description='A first DAG',
-       schedule=None,
-       start_date=datetime(2021, 1, 1),
+       description='Project_DAG',
+       schedule='0 0 * * *',
+       start_date=datetime(2023, 1, 1),
        catchup=False,
        tags=['example'],
 ) as dag:
    dag.doc_md = """
-       This is my first DAG in airflow.
+       This is my first DAG for py project.
        I can write documentation in Markdown here with *bold text* or _bold text_.
    """
 
@@ -46,13 +46,19 @@ with DAG(
        print("Hello Airflow - This is Task 5")
 
    t1 = PythonOperator(
-       task_id='extraction1',
-       python_callable=extraction1,
+       task_id='fetch_data_from_google',
+       python_callable=fetch_data_from_google,
+       provide_context=True,
+       op_kwargs={'task_number': 'task1'}
+
    )
 
    t2 = PythonOperator(
-       task_id='extraction2',
-       python_callable=extraction2
+       task_id='fetch_data_from_youtube',
+       python_callable=fetch_data_from_youtube,
+       provide_context=True,
+       op_kwargs={'task_number': 'task2'}
+
    )
 
    t3 = PythonOperator(
